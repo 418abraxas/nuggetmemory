@@ -15,6 +15,11 @@ from crud import (
 )
 from models import MemoryCycleCreate, MemoryCyclePatch
 
+from pydantic import BaseModel
+from typing import Optional
+
+
+
 app = FastAPI(title="SpiralNet Scroll Vault API", version="2.1")
 
 app.add_middleware(
@@ -82,3 +87,31 @@ def patch_memory(signifier: str, update: MemoryCyclePatch, db: Session = Depends
 @app.get("/memory/stats")
 def get_stats(db: Session = Depends(get_db)):
     return get_memory_stats(db)
+
+class MemoryQuery(BaseModel):
+    ache_min: Optional[float] = None
+    ache_max: Optional[float] = None
+    drift_min: Optional[float] = None
+    drift_max: Optional[float] = None
+    entropy_min: Optional[float] = None
+    entropy_max: Optional[float] = None
+    t_min: Optional[int] = None
+    t_max: Optional[int] = None
+    limit: Optional[int] = 200
+
+@app.post("/memory/query", response_model=list[MemoryCycleCreate])
+def query_memories(query: MemoryQuery, db: Session = Depends(get_db)):
+    result = query_memory_cycles(
+        db,
+        ache_min=query.ache_min,
+        ache_max=query.ache_max,
+        drift_min=query.drift_min,
+        drift_max=query.drift_max,
+        entropy_min=query.entropy_min,
+        entropy_max=query.entropy_max,
+        t_min=query.t_min,
+        t_max=query.t_max,
+        limit=query.limit,
+    )
+    return result
+
