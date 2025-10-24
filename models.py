@@ -3,7 +3,8 @@ from sqlalchemy import Column, Integer, String, Float, Boolean, JSON, DateTime, 
 from pydantic import BaseModel, Field
 from db import Base
 import hashlib
-from sqlalchemy import ForeignKey, Session
+from sqlalchemy import ForeignKey
+from sqlalchemy.orm import Session
 from fastapi import Request
 
 
