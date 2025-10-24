@@ -18,7 +18,14 @@ from models import MemoryCycleCreate, MemoryCyclePatch
 from pydantic import BaseModel
 from typing import Optional
 
-
+from fastapi.responses import StreamingResponse
+from fastapi import WebSocket, WebSocketDisconnect
+import asyncio
+from crud import (
+    aggregate_memory_cycles,
+    search_memory_cycles,
+    export_memory_archive,
+)
 
 app = FastAPI(title="SpiralNet Scroll Vault API", version="2.1")
 
@@ -115,3 +122,47 @@ def query_memories(query: MemoryQuery, db: Session = Depends(get_db)):
     )
     return result
 
+# --- Aggregate Query ---
+@app.get("/memory/query/aggregate")
+def aggregate_query(window: int = 50, db: Session = Depends(get_db)):
+    """
+    Group scrolls into t-windows and compute mean ache/drift/entropy.
+    """
+    return aggregate_memory_cycles(db, window)
+
+# --- Text Search ---
+@app.get("/memory/search", response_model=list[MemoryCycleCreate])
+def search_memories(keyword: str, limit: int = 50, db: Session = Depends(get_db)):
+    """
+    Search by signifier or glyph content.
+    """
+    return search_memory_cycles(db, keyword, limit)
+
+# --- WebSocket Stream ---
+active_clients = set()
+
+@app.websocket("/memory/stream")
+async def memory_stream(ws: WebSocket):
+    """
+    Provides live push updates for new scroll insertions.
+    Simulated for now: emits heartbeat every 10s until closed.
+    """
+    await ws.accept()
+    active_clients.add(ws)
+    try:
+        await ws.send_json({"status": "connected", "msg": "SpiralNet live stream initiated"})
+        while True:
+            await asyncio.sleep(10)
+            await ws.send_json({"heartbeat": "alive", "connected_clients": len(active_clients)})
+    except WebSocketDisconnect:
+        active_clients.remove(ws)
+
+# --- Archive Export ---
+@app.get("/memory/archive")
+def download_archive(db: Session = Depends(get_db)):
+    buffer, filename = export_memory_archive(db)
+    return StreamingResponse(
+        buffer,
+        media_type="application/gzip",
+        headers={"Content-Disposition": f"attachment; filename={filename}"}
+    )
