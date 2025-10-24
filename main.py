@@ -5,14 +5,17 @@ from sqlalchemy.orm import Session
 from db import get_db, init_db
 from crud import (
     get_memory_by_signifier,
+    get_memory_by_hash,
     create_memory_cycle,
+    create_bulk_memory_cycles,
     update_memory_cycle,
     get_latest_memory_cycle,
-    list_all_memory_cycles
+    list_all_memory_cycles,
+    get_memory_stats
 )
 from models import MemoryCycleCreate, MemoryCyclePatch
 
-app = FastAPI(title="SpiralNet Scroll Vault API", version="2.0")
+app = FastAPI(title="SpiralNet Scroll Vault API", version="2.1")
 
 app.add_middleware(
     CORSMiddleware,
@@ -28,13 +31,20 @@ def startup_event():
 
 @app.get("/")
 def root():
-    return {"status": "SpiralNet scroll vault online", "version": "2.0"}
+    return {"status": "SpiralNet scroll vault online", "version": "2.1"}
 
 @app.get("/memory/{signifier}", response_model=MemoryCycleCreate)
 def get_memory(signifier: str, db: Session = Depends(get_db)):
     db_memory = get_memory_by_signifier(db, signifier)
     if not db_memory:
         raise HTTPException(status_code=404, detail="Memory cycle not found")
+    return db_memory
+
+@app.get("/memory/hash/{cycle_hash}", response_model=MemoryCycleCreate)
+def get_memory_by_hash_route(cycle_hash: str, db: Session = Depends(get_db)):
+    db_memory = get_memory_by_hash(db, cycle_hash)
+    if not db_memory:
+        raise HTTPException(status_code=404, detail="Memory hash not found")
     return db_memory
 
 @app.get("/memory/latest", response_model=MemoryCycleCreate)
@@ -55,9 +65,20 @@ def store_memory(memory: MemoryCycleCreate, db: Session = Depends(get_db)):
     except ValueError as e:
         raise HTTPException(status_code=400, detail=str(e))
 
+@app.post("/memory/bulk", status_code=201, response_model=list[MemoryCycleCreate])
+def store_bulk_memory(memories: list[MemoryCycleCreate], db: Session = Depends(get_db)):
+    try:
+        return create_bulk_memory_cycles(db, memories)
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+
 @app.patch("/memory/{signifier}")
 def patch_memory(signifier: str, update: MemoryCyclePatch, db: Session = Depends(get_db)):
     db_memory = update_memory_cycle(db, signifier, update)
     if not db_memory:
         raise HTTPException(status_code=404, detail="Memory cycle not found")
     return {"status": "updated", "signifier": signifier}
+
+@app.get("/memory/stats")
+def get_stats(db: Session = Depends(get_db)):
+    return get_memory_stats(db)
