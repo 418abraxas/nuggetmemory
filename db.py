@@ -13,13 +13,13 @@ Base = declarative_base()
 
 
 def get_db():
-db = SessionLocal()
-try:
-yield db
-finally:
-db.close()
-
+  db = SessionLocal()
+  try:
+    yield db
+  finally:
+    db.close()
+  
 
 def init_db():
-from models import MemoryCycleDB
-Base.metadata.create_all(bind=engine)
+  from models import MemoryCycleDB
+  Base.metadata.create_all(bind=engine)
