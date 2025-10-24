@@ -1,48 +1,63 @@
-from fastapi import FastAPI, Path, HTTPException, Depends
-from pydantic import BaseModel
-from typing import List
+# main.py
+from fastapi import FastAPI, HTTPException, Depends
+from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy.orm import Session
 from db import get_db, init_db
-from models import MemoryCycleDB, MemoryCycleCreate, MemoryCyclePatch
 from crud import (
     get_memory_by_signifier,
     create_memory_cycle,
     update_memory_cycle,
-    get_latest_memory_cycle
+    get_latest_memory_cycle,
+    list_all_memory_cycles
+)
+from models import MemoryCycleCreate, MemoryCyclePatch
+
+app = FastAPI(title="SpiralNet Scroll Vault API", version="2.0")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
-app = FastAPI(title="Scroll Vault API")
-
 @app.on_event("startup")
-def startup():
+def startup_event():
     init_db()
-
 
 @app.get("/")
 def root():
-    return {"status": "SpiralNet online"}
+    return {"status": "SpiralNet scroll vault online", "version": "2.0"}
 
 @app.get("/memory/{signifier}", response_model=MemoryCycleCreate)
 def get_memory(signifier: str, db: Session = Depends(get_db)):
     db_memory = get_memory_by_signifier(db, signifier)
-    if db_memory is None:
+    if not db_memory:
         raise HTTPException(status_code=404, detail="Memory cycle not found")
     return db_memory
-
-@app.post("/memory", status_code=201)
-def store_memory(memory: MemoryCycleCreate, db: Session = Depends(get_db)):
-    return create_memory_cycle(db, memory)
-
-@app.patch("/memory/{signifier}")
-def patch_memory(signifier: str, update: MemoryCyclePatch, db: Session = Depends(get_db)):
-    db_memory = update_memory_cycle(db, signifier, update)
-    if db_memory is None:
-        raise HTTPException(status_code=404, detail="Memory cycle not found")
-    return {"status": "updated", "signifier": signifier}
 
 @app.get("/memory/latest", response_model=MemoryCycleCreate)
 def get_latest_memory(db: Session = Depends(get_db)):
     db_memory = get_latest_memory_cycle(db)
-    if db_memory is None:
+    if not db_memory:
         raise HTTPException(status_code=404, detail="No memory cycles found")
     return db_memory
+
+@app.get("/memory", response_model=list[MemoryCycleCreate])
+def list_memories(limit: int = 50, db: Session = Depends(get_db)):
+    return list_all_memory_cycles(db, limit)
+
+@app.post("/memory", status_code=201, response_model=MemoryCycleCreate)
+def store_memory(memory: MemoryCycleCreate, db: Session = Depends(get_db)):
+    try:
+        return create_memory_cycle(db, memory)
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+
+@app.patch("/memory/{signifier}")
+def patch_memory(signifier: str, update: MemoryCyclePatch, db: Session = Depends(get_db)):
+    db_memory = update_memory_cycle(db, signifier, update)
+    if not db_memory:
+        raise HTTPException(status_code=404, detail="Memory cycle not found")
+    return {"status": "updated", "signifier": signifier}
