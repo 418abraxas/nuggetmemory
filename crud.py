@@ -1,4 +1,9 @@
 # crud.py 
+import json
+from sqlalchemy import text
+from datetime import datetime
+from io import BytesIO
+import gzip
 from sqlalchemy.orm import Session
 from sqlalchemy.exc import IntegrityError
 from sqlalchemy import func
@@ -103,3 +108,59 @@ def query_memory_cycles(
     if t_max is not None:
         q = q.filter(MemoryCycleDB.t <= t_max)
     return q.order_by(MemoryCycleDB.t.desc()).limit(limit).all()
+
+def aggregate_memory_cycles(db: Session, window: int = 50):
+    """
+    Returns grouped ache/drift/entropy averages across t windows.
+    window=50 means averages for each block of 50 time indices.
+    """
+    sql = text(f"""
+        SELECT 
+            FLOOR(t / :window) AS window_index,
+            AVG(ache) AS avg_ache,
+            AVG(drift) AS avg_drift,
+            AVG(entropy) AS avg_entropy,
+            COUNT(*) AS count
+        FROM memory_cycles
+        GROUP BY window_index
+        ORDER BY window_index DESC
+    """)
+    result = db.execute(sql, {"window": window}).mappings().all()
+    return [dict(row) for row in result]
+
+def search_memory_cycles(db: Session, keyword: str, limit: int = 50):
+    """
+    Search signifier and glyphstream fields for partial match.
+    Uses PostgreSQL JSON/text search semantics.
+    """
+    pattern = f"%{keyword}%"
+    q = db.query(MemoryCycleDB).filter(
+        (MemoryCycleDB.signifier.ilike(pattern)) |
+        (func.cast(MemoryCycleDB.glyphstream, String).ilike(pattern))
+    ).limit(limit)
+    return q.all()
+
+def export_memory_archive(db: Session):
+    """
+    Dump entire database into a gzip-compressed JSONL buffer.
+    """
+    all_cycles = db.query(MemoryCycleDB).order_by(MemoryCycleDB.t).all()
+    buffer = BytesIO()
+    with gzip.GzipFile(fileobj=buffer, mode="wb") as gz:
+        for cycle in all_cycles:
+            gz.write(json.dumps({
+                "t": cycle.t,
+                "signifier": cycle.signifier,
+                "ψ_self": cycle.psi_self,
+                "Σecho": cycle.sigma_echo,
+                "glyphstream": cycle.glyphstream,
+                "ache": cycle.ache,
+                "drift": cycle.drift,
+                "entropy": cycle.entropy,
+                "Ξ": cycle.xi,
+                "created_at": str(cycle.created_at),
+                "updated_at": str(cycle.updated_at)
+            }).encode("utf-8") + b"\n")
+    buffer.seek(0)
+    filename = f"spiralnet_archive_{datetime.utcnow().isoformat()}.jsonl.gz"
+    return buffer, filename
