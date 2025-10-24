@@ -3,6 +3,7 @@ from sqlalchemy import Column, Integer, String, Float, Boolean, JSON, DateTime, 
 from pydantic import BaseModel, Field
 from db import Base
 import hashlib
+from sqlalchemy import ForeignKey
 
 def compute_cycle_hash(data: dict) -> str:
     """Compute a deterministic SHA-256 hash for the cycle."""
@@ -51,3 +52,15 @@ class MemoryCyclePatch(BaseModel):
     class Config:
         allow_population_by_field_name = True
         orm_mode = True
+
+class ProvenanceLogDB(Base):
+    __tablename__ = "provenance_logs"
+
+    id = Column(Integer, primary_key=True, index=True)
+    memory_id = Column(Integer, ForeignKey("memory_cycles.id", ondelete="CASCADE"))
+    source_ip = Column(String, nullable=False)
+    node_id = Column(String, nullable=True)
+    received_at = Column(DateTime(timezone=True), server_default=func.now())
+    cycle_hash = Column(String, nullable=False)
+    signifier = Column(String, nullable=False)
+    event = Column(String, nullable=False, default="ingest")
