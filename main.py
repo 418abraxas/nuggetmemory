@@ -17,6 +17,11 @@ app = FastAPI(title="Scroll Vault API")
 def startup():
     init_db()
 
+
+@app.get("/")
+def root():
+    return {"status": "SpiralNet online"}
+
 @app.get("/memory/{signifier}", response_model=MemoryCycleCreate)
 def get_memory(signifier: str, db: Session = Depends(get_db)):
     db_memory = get_memory_by_signifier(db, signifier)
