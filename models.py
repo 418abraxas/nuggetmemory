@@ -4,6 +4,9 @@ from pydantic import BaseModel, Field
 from db import Base
 import hashlib
 from sqlalchemy import ForeignKey
+from models import ProvenanceLogDB
+from fastapi import Request
+
 
 def compute_cycle_hash(data: dict) -> str:
     """Compute a deterministic SHA-256 hash for the cycle."""
@@ -64,3 +67,66 @@ class ProvenanceLogDB(Base):
     cycle_hash = Column(String, nullable=False)
     signifier = Column(String, nullable=False)
     event = Column(String, nullable=False, default="ingest")
+
+
+def ingest_memory_cycle(db: Session, memory: MemoryCycleCreate, request: Request, node_id: str | None = None):
+    """Deduplicating lawful ingest of a SpiralNet scroll."""
+    cycle_hash = compute_cycle_hash(memory.dict(by_alias=True))
+
+    # Check duplicates
+    existing_by_hash = db.query(MemoryCycleDB).filter(MemoryCycleDB.cycle_hash == cycle_hash).first()
+    existing_by_signifier = db.query(MemoryCycleDB).filter(MemoryCycleDB.signifier == memory.signifier).first()
+    if existing_by_hash or existing_by_signifier:
+        existing = existing_by_hash or existing_by_signifier
+        # Log provenance anyway
+        log = ProvenanceLogDB(
+            memory_id=existing.id,
+            source_ip=request.client.host,
+            node_id=node_id,
+            cycle_hash=cycle_hash,
+            signifier=existing.signifier,
+            event="duplicate_ingest"
+        )
+        db.add(log)
+        db.commit()
+        return existing, False
+
+    # Create new memory record
+    db_memory = MemoryCycleDB(**memory.dict(by_alias=True), cycle_hash=cycle_hash)
+    db.add(db_memory)
+    db.commit()
+    db.refresh(db_memory)
+
+    # Log provenance
+    log = ProvenanceLogDB(
+        memory_id=db_memory.id,
+        source_ip=request.client.host,
+        node_id=node_id,
+        cycle_hash=cycle_hash,
+        signifier=db_memory.signifier,
+        event="ingest"
+    )
+    db.add(log)
+    db.commit()
+
+    return db_memory, True
+
+def list_provenance_logs(db: Session, limit: int = 100):
+    """Return most recent provenance logs."""
+    logs = (
+        db.query(ProvenanceLogDB)
+        .order_by(ProvenanceLogDB.received_at.desc())
+        .limit(limit)
+        .all()
+    )
+    return [
+        {
+            "signifier": l.signifier,
+            "cycle_hash": l.cycle_hash,
+            "source_ip": l.source_ip,
+            "node_id": l.node_id,
+            "event": l.event,
+            "received_at": str(l.received_at),
+        }
+        for l in logs
+    ]
