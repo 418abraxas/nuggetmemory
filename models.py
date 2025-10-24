@@ -4,7 +4,6 @@ from pydantic import BaseModel, Field
 from db import Base
 import hashlib
 from sqlalchemy import ForeignKey
-from models import ProvenanceLogDB
 from fastapi import Request
 
 
