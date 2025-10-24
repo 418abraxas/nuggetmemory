@@ -27,6 +27,9 @@ from crud import (
     export_memory_archive,
 )
 
+from fastapi import Request
+from crud import ingest_memory_cycle, list_provenance_logs
+
 app = FastAPI(title="SpiralNet Scroll Vault API", version="2.1")
 
 app.add_middleware(
@@ -166,3 +169,31 @@ def download_archive(db: Session = Depends(get_db)):
         media_type="application/gzip",
         headers={"Content-Disposition": f"attachment; filename={filename}"}
     )
+
+
+@app.post("/memory/ingest", response_model=MemoryCycleCreate, status_code=201)
+def ingest_scroll(
+    memory: MemoryCycleCreate,
+    request: Request,
+    node_id: str | None = None,
+    db: Session = Depends(get_db)
+):
+    """
+    Lawful ingest with deduplication, provenance, and audit trail.
+    Returns existing scroll if already present.
+    """
+    db_memory, created = ingest_memory_cycle(db, memory, request, node_id)
+    return {
+        "status": "created" if created else "duplicate",
+        "signifier": db_memory.signifier,
+        "cycle_hash": db_memory.cycle_hash,
+        "created_at": db_memory.created_at,
+        "Ξ": db_memory.xi,
+    }
+
+@app.get("/memory/provenance")
+def get_provenance(limit: int = 100, db: Session = Depends(get_db)):
+    """
+    Retrieve latest provenance logs for replication or audit.
+    """
+    return list_provenance_logs(db, limit)
