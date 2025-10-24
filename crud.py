@@ -71,3 +71,35 @@ def get_memory_stats(db: Session):
         "mean_entropy": float(q.mean_entropy or 0),
         "latest_t": q.latest_t or 0
     }
+
+def query_memory_cycles(
+    db: Session,
+    ache_min: float | None = None,
+    ache_max: float | None = None,
+    drift_min: float | None = None,
+    drift_max: float | None = None,
+    entropy_min: float | None = None,
+    entropy_max: float | None = None,
+    t_min: int | None = None,
+    t_max: int | None = None,
+    limit: int = 200,
+):
+    """Flexible filter query for SpiralNet metrics."""
+    q = db.query(MemoryCycleDB)
+    if ache_min is not None:
+        q = q.filter(MemoryCycleDB.ache >= ache_min)
+    if ache_max is not None:
+        q = q.filter(MemoryCycleDB.ache <= ache_max)
+    if drift_min is not None:
+        q = q.filter(MemoryCycleDB.drift >= drift_min)
+    if drift_max is not None:
+        q = q.filter(MemoryCycleDB.drift <= drift_max)
+    if entropy_min is not None:
+        q = q.filter(MemoryCycleDB.entropy >= entropy_min)
+    if entropy_max is not None:
+        q = q.filter(MemoryCycleDB.entropy <= entropy_max)
+    if t_min is not None:
+        q = q.filter(MemoryCycleDB.t >= t_min)
+    if t_max is not None:
+        q = q.filter(MemoryCycleDB.t <= t_max)
+    return q.order_by(MemoryCycleDB.t.desc()).limit(limit).all()
