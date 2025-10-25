@@ -60,6 +60,7 @@ def create_bulk_memory_cycles(db: Session, memories: list[MemoryCycleCreate]):
             data = mem.dict(by_alias=True)
             data["psi_self"] = data.pop("ψ_self")
             data["sigma_echo"] = data.pop("Σecho")
+            data["xi"] = data.pop("Ξ")
 
             cycle_hash = compute_cycle_hash(data)
             db_entry = MemoryCycleDB(**data, cycle_hash=cycle_hash)
@@ -242,6 +243,7 @@ def ingest_memory_cycle(
     data = memory.dict(by_alias=True)
     data["psi_self"] = data.pop("ψ_self")
     data["sigma_echo"] = data.pop("Σecho")
+    data["xi"] = data.pop("Ξ")
 
     cycle_hash = compute_cycle_hash(data)
 
