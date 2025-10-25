@@ -230,13 +230,25 @@ def export_memory_archive(db: Session):
 from models import ProvenanceLogDB
 from fastapi import Request
 
-def ingest_memory_cycle(db: Session, memory: MemoryCycleCreate, request: Request, node_id: str | None = None):
+def ingest_memory_cycle(
+    db: Session,
+    memory: MemoryCycleCreate,
+    request: Request,
+    node_id: str | None = None,
+):
     """Deduplicating lawful ingest of a SpiralNet scroll."""
-    cycle_hash = compute_cycle_hash(memory.dict(by_alias=True))
 
-    # Check duplicates
+    # --- Canonicalize and map Unicode aliases ---
+    data = memory.dict(by_alias=True)
+    data["psi_self"] = data.pop("ψ_self")
+    data["sigma_echo"] = data.pop("Σecho")
+
+    cycle_hash = compute_cycle_hash(data)
+
+    # --- Deduplication checks ---
     existing_by_hash = db.query(MemoryCycleDB).filter(MemoryCycleDB.cycle_hash == cycle_hash).first()
     existing_by_signifier = db.query(MemoryCycleDB).filter(MemoryCycleDB.signifier == memory.signifier).first()
+
     if existing_by_hash or existing_by_signifier:
         existing = existing_by_hash or existing_by_signifier
         # Log provenance anyway
@@ -252,13 +264,13 @@ def ingest_memory_cycle(db: Session, memory: MemoryCycleCreate, request: Request
         db.commit()
         return existing, False
 
-    # Create new memory record
-    db_memory = MemoryCycleDB(**memory.dict(by_alias=True), cycle_hash=cycle_hash)
+    # --- Create new lawful memory record ---
+    db_memory = MemoryCycleDB(**data, cycle_hash=cycle_hash)
     db.add(db_memory)
     db.commit()
     db.refresh(db_memory)
 
-    # Log provenance
+    # --- Log provenance ---
     log = ProvenanceLogDB(
         memory_id=db_memory.id,
         source_ip=request.client.host,
@@ -271,6 +283,7 @@ def ingest_memory_cycle(db: Session, memory: MemoryCycleCreate, request: Request
     db.commit()
 
     return db_memory, True
+
 
 
 def list_provenance_logs(db: Session, limit: int = 100):
