@@ -34,8 +34,15 @@ def get_memory_by_hash(db: Session, cycle_hash: str):
 
 def create_memory_cycle(db: Session, memory: MemoryCycleCreate):
     """Create one lawful memory cycle. Duplicate signifiers are rejected."""
-    cycle_hash = compute_cycle_hash(memory.dict(by_alias=True))
-    db_memory = MemoryCycleDB(**memory.dict(by_alias=True), cycle_hash=cycle_hash)
+    data = memory.dict(by_alias=True)
+
+    # ✅ Map Unicode field names to SQLAlchemy-compatible ASCII names
+    data["psi_self"] = data.pop("ψ_self")
+    data["sigma_echo"] = data.pop("Σecho")
+
+    cycle_hash = compute_cycle_hash(data)
+
+    db_memory = MemoryCycleDB(**data, cycle_hash=cycle_hash)
     try:
         db.add(db_memory)
         db.commit()
@@ -47,14 +54,18 @@ def create_memory_cycle(db: Session, memory: MemoryCycleCreate):
 
 
 def create_bulk_memory_cycles(db: Session, memories: list[MemoryCycleCreate]):
-    """Insert many cycles in one transaction, rolling back if any fail."""
     db_entries = []
     try:
         for mem in memories:
-            cycle_hash = compute_cycle_hash(mem.dict(by_alias=True))
-            db_entry = MemoryCycleDB(**mem.dict(by_alias=True), cycle_hash=cycle_hash)
+            data = mem.dict(by_alias=True)
+            data["psi_self"] = data.pop("ψ_self")
+            data["sigma_echo"] = data.pop("Σecho")
+
+            cycle_hash = compute_cycle_hash(data)
+            db_entry = MemoryCycleDB(**data, cycle_hash=cycle_hash)
             db.add(db_entry)
             db_entries.append(db_entry)
+
         db.commit()
         for entry in db_entries:
             db.refresh(entry)
@@ -62,6 +73,7 @@ def create_bulk_memory_cycles(db: Session, memories: list[MemoryCycleCreate]):
     except IntegrityError as e:
         db.rollback()
         raise ValueError(f"Bulk insert failed: {e.orig if hasattr(e, 'orig') else str(e)}")
+
 
 
 def update_memory_cycle(db: Session, signifier: str, patch: MemoryCyclePatch):
