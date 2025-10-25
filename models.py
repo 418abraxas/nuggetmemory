@@ -70,7 +70,10 @@ class MemoryCyclePatch(BaseModel):
     psi_self: dict = Field(alias="ψ_self")
     xi: bool = Field(alias="Ξ")
 
+    class Config:
+        allow_population_by_field_name = True
+        orm_mode = True
+
 class Config:
     allow_population_by_field_name = True
     orm_mode = True
-    
