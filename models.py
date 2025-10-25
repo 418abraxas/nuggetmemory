@@ -23,8 +23,8 @@ class MemoryCycleDB(Base):
     id = Column(Integer, primary_key=True, index=True)
     signifier = Column(String, unique=True, index=True, nullable=False)
     t = Column(Integer, nullable=False)
-    psi_self = Column(JSON, nullable=False, alias="ψ_self")
-    sigma_echo = Column(JSON, nullable=False, alias="Σecho")
+    psi_self = Column(JSON, nullable=False)
+    sigma_echo = Column(JSON, nullable=False)
     glyphstream = Column(JSON, nullable=False)
     ache = Column(Float, nullable=False)
     drift = Column(Float, nullable=False)
@@ -67,6 +67,7 @@ class MemoryCycleCreate(BaseModel):
 
 class MemoryCyclePatch(BaseModel):
     sigma_echo: dict = Field(alias="Σecho")
+    psi_self: dict = Field(alias="ψ_self")
     xi: bool = Field(alias="Ξ")
 
 class Config:
