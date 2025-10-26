@@ -114,7 +114,7 @@ def list_memories(limit: int = 50, db: Session = Depends(get_db)):
     return list_all_memory_cycles(db, limit)
 
 
-@app.post("/memory", status_code=201, response_model=MemoryCycleCreate)
+@app.post("/memory", status_code=201, response_model=MemoryCycleRead)
 def store_memory(memory: MemoryCycleCreate, db: Session = Depends(get_db)):
     """Store a new memory cycle."""
     try:
