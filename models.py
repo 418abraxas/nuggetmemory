@@ -64,6 +64,23 @@ class MemoryCycleCreate(BaseModel):
         allow_population_by_field_name = True
         orm_mode = True
 
+class MemoryCycleRead(BaseModel):
+    t: int
+    signifier: str
+    psi_self: dict
+    sigma_echo: dict
+    glyphstream: list[str]
+    ache: float
+    drift: float
+    entropy: float
+    xi: bool
+    cycle_hash: str
+    created_at: datetime
+    updated_at: datetime
+
+    class Config:
+        orm_mode = True
+
 
 class MemoryCyclePatch(BaseModel):
     sigma_echo: dict = Field(alias="Σecho")
