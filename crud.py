@@ -37,9 +37,13 @@ def create_memory_cycle(db: Session, memory: MemoryCycleCreate):
     data = memory.dict(by_alias=True)
 
     # ✅ Map Unicode field names to SQLAlchemy-compatible ASCII names
-    data["psi_self"] = data.pop("ψ_self")
-    data["sigma_echo"] = data.pop("Σecho")
-
+    data = memory.dict(by_alias=True)
+    if "ψ_self" in data:
+        data["psi_self"] = data.pop("ψ_self")
+    if "Σecho" in data:
+        data["sigma_echo"] = data.pop("Σecho")
+    if "Ξ" in data:
+        data["xi"] = data.pop("Ξ")
     cycle_hash = compute_cycle_hash(data)
 
     db_memory = MemoryCycleDB(**data, cycle_hash=cycle_hash)
