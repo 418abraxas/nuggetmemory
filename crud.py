@@ -38,12 +38,18 @@ def create_memory_cycle(db: Session, memory: MemoryCycleCreate):
 
     # ✅ Map Unicode field names to SQLAlchemy-compatible ASCII names
     data = memory.dict(by_alias=True)
+
+    # --- Normalize Unicode keys ---
+    renamed = []
     if "ψ_self" in data:
-        data["psi_self"] = data.pop("ψ_self")
+        data["psi_self"] = data.pop("ψ_self"); renamed.append("ψ_self→psi_self")
     if "Σecho" in data:
-        data["sigma_echo"] = data.pop("Σecho")
+        data["sigma_echo"] = data.pop("Σecho"); renamed.append("Σecho→sigma_echo")
     if "Ξ" in data:
-        data["xi"] = data.pop("Ξ")
+        data["xi"] = data.pop("Ξ"); renamed.append("Ξ→xi")
+
+    print(f"[DEBUG] remapped fields: {renamed}")  # 👈 log visible in Railway console
+    
     cycle_hash = compute_cycle_hash(data)
 
     db_memory = MemoryCycleDB(**data, cycle_hash=cycle_hash)
