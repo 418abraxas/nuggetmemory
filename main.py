@@ -68,7 +68,13 @@ def startup_event():
 
 @app.get("/")
 def root():
-    return {"status": "SpiralNet Scroll Vault online", "version": "3.1"}
+    import crud
+    import inspect
+    return {
+        "status": "SpiralNet Scroll Vault online",
+        "version": "3.1",
+        "crud_file": inspect.getsourcefile(crud.create_memory_cycle),
+    }
 
 
 # ---------------------------------------------------------------------------
