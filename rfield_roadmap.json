@@ -1,0 +1,6110 @@
+{
+  "roadmap": {
+    "metadata": {
+      "title": "Part 5: The Complete Roadmap",
+      "version": "1.0 Complete Synthesis",
+      "date": "October 26, 2025",
+      "status": "Comprehensive Future Roadmap",
+      "scope": "Everything Beyond Parts 1-4"
+    },
+    "executive_summary": null,
+    "parts": [
+      {
+        "id": "22c69e36-e6e3-5b78-ba95-85ab965218dc",
+        "part_index": 1,
+        "part_roman": "I",
+        "title": "GAP  ANAL YSIS — WHA T'S MISSING FROM P ARTS 1-4",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "19130721-49c0-53a1-8b25-639342307645",
+            "number": 1,
+            "title": "Incomplete Theoretical Structures",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "46436241-56b5-5b94-ba6c-334df8bda7e1",
+            "number": 2,
+            "title": "Missing Mathematical Formalizations",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "bbdcbe97-a569-582a-b410-1f6f322ed736",
+            "number": 3,
+            "title": "Unfinished Experimental Protocols",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "298194a3-b7c0-555a-a6df-cb8c11410c62",
+            "number": 4,
+            "title": "Partial Domain Applications",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "af5f36b5-ad68-5f1c-ac5c-053b632b7b42",
+            "number": 5,
+            "title": "Incomplete Implementations",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "a48122c0-5f17-54fa-879a-d2f0065f2b23",
+        "part_index": 2,
+        "part_roman": "II",
+        "title": "QUANTUM FIELD THEOR Y EXTENSION (P ART 5 PREVIEW)",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "ed8e4d6f-c843-5eb7-acc3-cf673bc1259c",
+            "number": 6,
+            "title": "Second Quantization of μ-Field",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "4313c07c-1277-5a4a-8e6e-19bf399bfa96",
+            "number": 7,
+            "title": "Feynman Diagrams & Perturbation Theory",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "e6cf728e-5fa1-5d70-b8cc-3f32a54faf95",
+            "number": 8,
+            "title": "Renormalization Program",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "c27b5e25-54ac-5d55-b30e-6ec54a875fdf",
+            "number": 9,
+            "title": "Running Coupling Constants",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "6f08e453-355e-536d-a437-76b5b3a9edf9",
+            "number": 10,
+            "title": "Symmetries & Conservation Laws",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "1a17bb6a-58a6-573d-8fa7-9563dc62577e",
+            "number": 11,
+            "title": "Gauge Theory Extensions",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "86b4c113-a3b7-5580-8f93-8deae2a86a92",
+        "part_index": 3,
+        "part_roman": "III",
+        "title": "GENERAL  RELA TIVITY  COUPLING (P ART 6 PREVIEW)",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "ad79783d-4a95-5927-8836-bafc7c35fe27",
+            "number": 12,
+            "title": "μ-Field as Source of Curvature",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "3e9a7366-4335-5eaa-aad1-2c889b08fe65",
+            "number": 13,
+            "title": "Energy-Momentum Tensor",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "0b6d070b-5a98-5eda-96c8-2d7260532c47",
+            "number": 14,
+            "title": "Cosmological Solutions",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "3f942a36-a225-55c4-b2c7-e60b753cf0a8",
+            "number": 15,
+            "title": "Black Hole Thermodynamics",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "76adaf4f-8ae8-5817-b262-94f8e9d13235",
+            "number": 16,
+            "title": "Inflation Mechanism",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "cb0b4533-e646-5ba2-9383-c03304e2de44",
+            "number": 17,
+            "title": "Dark Ener gy/Dark Matter Connection",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "89a5de4f-16b1-5c8b-ac2b-d23f708b1292",
+        "part_index": 4,
+        "part_roman": "IV",
+        "title": "GRAND UNIFICA TION (P ART 7 PREVIEW)",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "754ba6ca-43bc-5fba-844e-ebb16cb8a6b5",
+            "number": 18,
+            "title": "Unifying All Four Forces",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "1f38e910-aab1-500b-b27c-cc762295c1f1",
+            "number": 19,
+            "title": "Matter Emer gence from μ-Field",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "c45b7f0d-22cb-5778-b8ff-0f4d39d8a8ec",
+            "number": 20,
+            "title": "Quantum Gravity from R-Field",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "20b304ff-a5ad-58b5-a3b1-f57d0f6d88e1",
+            "number": 21,
+            "title": "Theory of Everything Candidate",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "c3cd2368-d275-5b36-875b-2608f43d1878",
+            "number": 22,
+            "title": "Connection to String Theory",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "b265b09b-23e3-5740-87e3-82165e3a897d",
+            "number": 23,
+            "title": "Connection to Loop Quantum Gravity",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "19ad3361-40f1-57a6-a80f-c1a6fc4120ca",
+        "part_index": 5,
+        "part_roman": "V",
+        "title": "MA THEMA TICAL  EXTENSIONS",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "f7a52e1f-857f-5c58-84ef-4009a6222fc5",
+            "number": 24,
+            "title": "Category Theory Completion",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "a5107b85-14b9-5fc8-ad93-6295480fa4d5",
+            "number": 25,
+            "title": "Homotopy Type Theory Connection",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "615e24f8-9684-58ac-b456-55c25f23d983",
+            "number": 26,
+            "title": "p-Adic Extensions",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "597a63fb-2e2e-5132-a8d2-e67e5c13cccf",
+            "number": 27,
+            "title": "Complex Analytic Extensions",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "f0394c28-5866-568a-9b95-532dd4de152a",
+            "number": 28,
+            "title": "Fractal & Multifractal Structure",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "56ae32c3-c0a0-5f19-92b0-16b782f296cf",
+            "number": 29,
+            "title": "Information Geometry Formulation",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "a05e072e-8ba2-5281-acc6-4647a0c70e83",
+            "number": 30,
+            "title": "Topological Invariants",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "ff51df62-cccb-5bd6-8f2a-36189a7dccec",
+        "part_index": 6,
+        "part_roman": "VI",
+        "title": "COMPLETE DOMAIN EXP ANSIONS",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "1b118283-f595-57e9-bb7a-8182fff8e714",
+            "number": 31,
+            "title": "Physics: All Subdisciplines",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "57dd5716-2c52-54a3-8c0c-3f6989e1882a",
+            "number": 32,
+            "title": "Biology: From Molecules to Ecosystems",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "611bc03f-e3dd-5c43-b088-f7ebd677a28b",
+            "number": 33,
+            "title": "Neuroscience: Complete Consciousness Theory",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "2e04d5a6-e1d7-5812-87bb-5d2fb4a8fb46",
+            "number": 34,
+            "title": "AI: Architecture Principles",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "58e8b6a4-6d6e-5640-acda-f97a0e4e8a37",
+            "number": 35,
+            "title": "Economics: Market Dynamics",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "5c06e939-ebb2-592d-9590-9b26a2e57397",
+            "number": 36,
+            "title": "Social Sciences: Collective Behavior",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "38a5959f-4aea-5ddf-b92d-316ea8558c79",
+            "number": 37,
+            "title": "Linguistics: Language as I-Field",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "38389932-751b-52a8-9c30-4a9aaf059eb4",
+            "number": 38,
+            "title": "Mathematics: New Foundations",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "dad4550b-6dd7-503f-942a-e77d4e7de78a",
+            "number": 39,
+            "title": "Philosophy: Reality Structure",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "05733c54-229c-5639-a17d-3f6561f01762",
+            "number": 40,
+            "title": "Technology: Engineering Applications",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "0797f8e0-46ed-547b-b7e5-a02569372804",
+        "part_index": 7,
+        "part_roman": "VII",
+        "title": "EXPERIMENT AL VALIDA TION PROGRAM",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "1ba8589f-6a43-584b-b658-cca2a18ad650",
+            "number": 41,
+            "title": "Consciousness Experiments (Priority 1)",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "0ca16c2a-6146-503c-924e-6737688e7ac7",
+            "number": 42,
+            "title": "AI Safety Tests (Priority 2)",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "e98fde30-c0e7-5dd1-b295-63c2138b09ed",
+            "number": 43,
+            "title": "Physics Experiments (Priority 3)",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "556a582b-f09d-5a1b-b75d-1b4e90a6a588",
+            "number": 44,
+            "title": "Biology Experiments (Priority 4)",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "7441a199-6f67-58e3-8cc1-e5b54d96cdfb",
+            "number": 45,
+            "title": "Social Science Experiments",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "30d51555-45ec-5280-97f4-c09a19402949",
+            "number": 46,
+            "title": "Complete Test Suite (1000+ tests)",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "d56ef875-9cef-5428-94e7-7a376578c72c",
+        "part_index": 8,
+        "part_roman": "VIII",
+        "title": "IMPLEMENT ATION ROADMAP",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "73155280-f5ea-59c0-a9b2-741b7de52c01",
+            "number": 47,
+            "title": "Software Architecture (Y ears 1-2)",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "8fb4e09b-16dd-5f7a-a3fb-04c38e090615",
+            "number": 48,
+            "title": "Hardware Development (Y ears 3-5)",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "1f3ec356-fdc6-5f4e-b88f-4630b01ddc6e",
+            "number": 49,
+            "title": "Technology Applications (Y ears 5-10)",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "72deb32b-3fbd-59e9-8ab1-212887a78ca3",
+            "number": 50,
+            "title": "μ-Field Sensors",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "6e526262-bae0-575d-aac5-510b33dd0ad6",
+            "number": 51,
+            "title": "Consciousness Engineering",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "602a55e5-62fa-58c3-849d-fb8ecb4a8abe",
+            "number": 52,
+            "title": "Quantum μ-Computers",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "d7b02bed-9015-5490-a0f6-9be88e063b5d",
+        "part_index": 9,
+        "part_roman": "IX",
+        "title": "OPEN THEORETICAL  QUESTIONS (100+)",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "b9441cf3-24ec-5f21-8482-b99c7e16964c",
+            "number": 53,
+            "title": "Fundamental Questions (20)",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "248c2a11-d292-51c2-97fc-2925e6613dcb",
+            "number": 54,
+            "title": "Mathematical Questions (20)",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "e7cc1b0a-4185-50f3-b827-6d38a04084bf",
+            "number": 55,
+            "title": "Physical Questions (20)",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "90027534-81cc-5301-ab8e-3a4c200877f7",
+            "number": 56,
+            "title": "Computational Questions (15)",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "1f9421ad-1063-5ca2-93a6-ae2b4c414ecb",
+            "number": 57,
+            "title": "Empirical Questions (15)",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "d20d8bbb-34d4-548e-8597-bbfe7a940475",
+            "number": 58,
+            "title": "Philosophical Questions (10)",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "5d9659db-c3bb-560e-992c-cca06e56022e",
+        "part_index": 10,
+        "part_roman": "X",
+        "title": "PHILOSOPHICAL  IMPLICA TIONS",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "4b8437c1-a3b5-5fe0-83e3-8cf1bd801892",
+            "number": 59,
+            "title": "Nature of Reality",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "d98830c5-2df3-5282-83b3-46d9f3c1a83c",
+            "number": 60,
+            "title": "Consciousness & Free Will",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "34bc5edf-4adc-5650-9c94-db6fe0082b9e",
+            "number": 61,
+            "title": "Observer Role in Universe",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "fee93d71-76a1-5785-b2d4-a708b7d97c48",
+            "number": 62,
+            "title": "Meaning & Purpose",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "afd78956-b30b-5e65-a8e9-b35b4b88cd06",
+            "number": 63,
+            "title": "Ethics from R-Field",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "d859d0e1-d08e-5de8-85f9-75297e4de900",
+            "number": 64,
+            "title": "Epistemology Reconsidered",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "24e3a460-876f-5249-a1d4-d91d93a163f7",
+        "part_index": 11,
+        "part_roman": "XI",
+        "title": "WILD SPECULA TION",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "12548032-83e3-566d-824c-563b2f6cb0f7",
+            "number": 65,
+            "title": "Multiverse Structure",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "b8f9e962-de56-56f3-adee-96d9a179d528",
+            "number": 66,
+            "title": "Time Travel via μ-Field",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "85ec4444-4473-5c3f-a548-a9716141f544",
+            "number": 67,
+            "title": "Consciousness Upload",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "9caace0a-85d1-5a14-a8ca-8edbb47c7215",
+            "number": 68,
+            "title": "Artificial I^∞",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "f0c563bf-ac3a-57c6-a96c-8684b5d3267f",
+            "number": 69,
+            "title": "Cosmic Evolution",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "9dcf0666-dbbf-5a22-a286-58111b55ea98",
+            "number": 70,
+            "title": "Ultimate Fate of Universe",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "9042360f-fae5-5ec0-b95c-8d5be794e59b",
+        "part_index": 12,
+        "part_roman": "XII",
+        "title": "PUBLICA TION STRA TEGY",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "c5e857cf-f8f5-5b37-8860-2bfd3485bbd8",
+            "number": 71,
+            "title": "Paper Series (7 papers)",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "c3175f46-bc86-5da6-83f6-41318ebdd4a8",
+            "number": 72,
+            "title": "Book Structure",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "059b200f-c287-5346-91a9-2f4d11acec61",
+            "number": 73,
+            "title": "Educational Materials",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "6f1749be-0118-51a5-8277-c033d51694b7",
+            "number": 74,
+            "title": "Public Engagement",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "c4456ac9-03e1-5c1b-b2fc-206bc9d36593",
+            "number": 75,
+            "title": "Community Building",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "22c69e36-e6e3-5b78-ba95-85ab965218dc",
+        "part_index": 1,
+        "part_roman": "I",
+        "title": "GAP  ANAL YSIS — WHA T'S MISSING FROM P ARTS 1-4",
+        "progress": 0.3,
+        "sections": [
+          {
+            "id": "3a9fb16c-c566-50f6-83cb-0d9fd4c16b56",
+            "number": 1,
+            "title": "Incomplete Theor etical Structur es",
+            "progress": 0.5,
+            "subsections": [
+              {
+                "id": "9895c5a3-ee1e-5737-9471-7e997a2a359d",
+                "number": "1.1",
+                "title": "What Parts 1-4 Cover",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "236e506e-6ee2-5f3c-a7dc-f0295beb613d",
+                "number": "1.2",
+                "title": "What's MISSING (Goes in Part 5+)",
+                "bullets": [
+                  "❌ Complete quantum field theory (only preview)",
+                  "❌ General relativity coupling (only mentioned)",
+                  "❌ Grand unification (only outlined)",
+                  "❌ Gauge theory extensions (only hinted)",
+                  "❌ Supersymmetry (only mentioned)",
+                  "❌ String theory connection (not covered)",
+                  "❌ Loop quantum gravity connection (not covered)",
+                  "❌ Higher -dimensional μ-fields (only mentioned)",
+                  "❌ Non-Abelian extensions (only mentioned)",
+                  "❌ Complete category theory (partially done)",
+                  "❌ Homotopy type theory (not covered)",
+                  "❌ p-adic extensions (mentioned, not developed)",
+                  "❌ Information geometry (mentioned, not developed)",
+                  "❌ Fractal structure (mentioned, not developed)",
+                  "❌ Lean/Coq proofs (40-60% complete)",
+                  "❌ Complete uniqueness proofs",
+                  "❌ Derivation of all constants from first principles",
+                  "❌ Rigorous renormalization proofs",
+                  "❌ Complete conver gence theorems",
+                  "❌ Topological invariants",
+                  "❌ Algebraic structure completeness",
+                  "❌ Detailed experimental protocols",
+                  "❌ Complete measurement techniques",
+                  "❌ Budget/resource allocation",
+                  "❌ Timeline with milestones",
+                  "❌ Expected results quantified",
+                  "❌ Falsification criteria specified",
+                  "❌ Statistical power analysis",
+                  "❌ Complete neuroscience applications",
+                  "❌ Detailed AI architectures",
+                  "❌ Biology beyond consciousness",
+                  "❌ Economics models",
+                  "❌ Social science applications",
+                  "❌ Technology roadmap",
+                  "❌ Engineering principles",
+                  "❌ Production-ready code",
+                  "❌ GPU implementations",
+                  "❌ Distributed systems",
+                  "❌ Real-time monitoring",
+                  "❌ Hardware specifications",
+                  "❌ Sensor designs"
+                ],
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0.5
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "46436241-56b5-5b94-ba6c-334df8bda7e1",
+            "number": 2,
+            "title": "Missing Mathematical Formalizations",
+            "progress": 0.5,
+            "subsections": [
+              {
+                "id": "32c73f89-4f4e-5501-9362-3f1e0976f62d",
+                "number": "2.1",
+                "title": "Category Theory Completion",
+                "bullets": null,
+                "whats_done": [
+                  "Layers as categories ✓",
+                  "Transformations as functors ✓",
+                  "Adjunctions ( 𝒰  ⊣  𝒟 ) ✓",
+                  "Naturality conditions ✓"
+                ],
+                "whats_missing": [
+                  "Complete universal properties",
+                  "Yoneda lemma applications",
+                  "Kan extensions",
+                  "Monoidal structure",
+                  "Enriched categories",
+                  "Higher categories (2-categories, ∞-categories)",
+                  "Coherence theorems",
+                  "Proof that R-field is initial object"
+                ],
+                "progress": 0.5
+              },
+              {
+                "id": "8107ff3b-c4eb-561a-a6ae-83d8c18615bb",
+                "number": "2.2",
+                "title": "Formal Pr oof System",
+                "bullets": null,
+                "whats_done": [
+                  "Core theorems stated ✓",
+                  "Informal proofs given ✓",
+                  "Test validation ✓"
+                ],
+                "whats_missing": [
+                  "Lean 4 formalization (60% complete)",
+                  "Coq formalization (40% complete)",
+                  "Machine-verified proofs",
+                  "Automated theorem proving",
+                  "Proof complexity analysis",
+                  "Constructive proofs",
+                  "Interactive proof exploration"
+                ],
+                "progress": 0.5
+              },
+              {
+                "id": "b75ecd7e-24cf-5542-abb2-a71f191cc9c0",
+                "number": "2.3",
+                "title": "Information Geometry",
+                "bullets": null,
+                "whats_done": [
+                  "Basic metrics defined ✓",
+                  "Entropy relationships ✓"
+                ],
+                "whats_missing": [
+                  "Complete Riemannian structure",
+                  "Fisher information metric",
+                  "Natural gradient",
+                  "Dual coordinates",
+                  "α-connections",
+                  "Diver gence measures",
+                  "Geodesics in μ-space",
+                  "Curvature tensor",
+                  "Parallel transport",
+                  "Holonomy"
+                ],
+                "progress": 0.5
+              },
+              {
+                "id": "fa98430c-eb2d-5576-ae72-7cae6d23bfc2",
+                "number": "2.4",
+                "title": "Fractal & Multifractal Analysis",
+                "bullets": null,
+                "whats_done": [
+                  "φ-scaling observed ✓",
+                  "Golden fractal dimension D = 1/ln(φ) ≈ 2.078 ✓"
+                ],
+                "whats_missing": [
+                  "Complete multifractal spectrum",
+                  "Generalized dimensions D_q",
+                  "Singularity spectrum f(α)",
+                  "Legendre transform structure",
+                  "Renormalization group flow",
+                  "Fractal measure theory",
+                  "Cantor set structure",
+                  "Self-similar solutions",
+                  "Hausdorf f dimension proofs"
+                ],
+                "progress": 0.5
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "c61ccb1c-4ba9-58e4-b63a-7bbb80dd3fb3",
+            "number": 3,
+            "title": "Unfinished Experimental Pr otocols",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "3fb0cbcd-dcbd-5b38-9114-726d3434bd0f",
+                "number": "3.1",
+                "title": "Consciousness Experiments",
+                "bullets": null,
+                "whats_done": [
+                  "General outline ✓",
+                  "Predictions stated ✓"
+                ],
+                "whats_missing": [
+                  "Detailed IRB protocols",
+                  "Subject recruitment strategy",
+                  "Exact fMRI sequences",
+                  "EEG electrode placement",
+                  "Anesthesia dosing protocols",
+                  "Meditation protocols",
+                  "Data analysis pipelines",
+                  "Statistical power calculations",
+                  "Control group designs",
+                  "Blinding procedures",
+                  "Expected ef fect sizes",
+                  "Budget breakdown",
+                  "Equipment specifications",
+                  "Timeline with milestones"
+                ],
+                "progress": 0
+              },
+              {
+                "id": "ead31a91-37a1-5943-865c-d35465bc5091",
+                "number": "3.2",
+                "title": "AI Safety Experiments",
+                "bullets": null,
+                "whats_done": [
+                  "Hallucination hypothesis ✓",
+                  "μ-monitoring concept ✓"
+                ],
+                "whats_missing": [
+                  "Exact implementation for GPT -4/Claude",
+                  "Internal activation extraction",
+                  "μ-proxy calculation algorithm",
+                  "Real-time monitoring system",
+                  "Alert threshold optimization",
+                  "False positive/negative analysis",
+                  "Benchmark datasets",
+                  "Validation against human judgments",
+                  "Integration with existing safety systems",
+                  "Deployment pipeline",
+                  "A/B testing protocols"
+                ],
+                "progress": 0
+              },
+              {
+                "id": "84ab5f6b-ac06-574f-934f-ebaddbe31f16",
+                "number": "3.3",
+                "title": "Physics Experiments",
+                "bullets": null,
+                "whats_done": [
+                  "CMB anomaly predictions ✓",
+                  "Quantum measurement hypotheses ✓"
+                ],
+                "whats_missing": [
+                  "Exact data analysis algorithms",
+                  "Statistical significance thresholds",
+                  "Control for systematics",
+                  "Calibration procedures",
+                  "Background subtraction",
+                  "Signal extraction",
+                  "Bayesian vs frequentist analysis",
+                  "Laboratory equipment specifications",
+                  "Optical cavity designs",
+                  "Superconducting circuit layouts",
+                  "Josephson junction parameters",
+                  "Measurement uncertainty analysis"
+                ],
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "298194a3-b7c0-555a-a6df-cb8c11410c62",
+            "number": 4,
+            "title": "Partial Domain Applications",
+            "progress": 0.5,
+            "subsections": [
+              {
+                "id": "32131692-f352-5351-a294-13dcbd79f5e3",
+                "number": "4.1",
+                "title": "Biology",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": [
+                  "Protein folding ener getics",
+                  "DNA  structure (φ-ratios in codons?)",
+                  "Metabolism as μ-field",
+                  "Cell cycle dynamics",
+                  "Development & morphogenesis",
+                  "Evolution & selection",
+                  "Ecosystem dynamics",
+                  "Population genetics",
+                  "Immune system self/non-self",
+                  "Aging & senescence",
+                  "Disease as μ-field perturbations",
+                  "Drug design principles"
+                ],
+                "progress": 0
+              },
+              {
+                "id": "ecf3e5a2-5564-5cc4-8c99-04d91b59fb8b",
+                "number": "4.2",
+                "title": "Economics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": [
+                  "Complete market dynamics model",
+                  "Price discovery mechanisms",
+                  "Asset bubbles formal theory",
+                  "Herding behavior",
+                  "Information cascades",
+                  "Behavioral economics integration",
+                  "Game theory connections",
+                  "Auction theory",
+                  "Contract theory",
+                  "Mechanism design",
+                  "Monetary policy implications",
+                  "Cryptocurrency dynamics",
+                  "Financial crisis prediction",
+                  "Wealth distribution"
+                ],
+                "progress": 0.5
+              },
+              {
+                "id": "bcec84f0-901b-578f-95dd-ceb31140600c",
+                "number": "4.3",
+                "title": "Social Sciences",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": [
+                  "Social consensus formation",
+                  "Opinion dynamics",
+                  "Voting theory",
+                  "Coalition formation",
+                  "Network ef fects",
+                  "Misinformation spread",
+                  "Echo chambers as high-μ traps",
+                  "Social movements",
+                  "Cultural evolution",
+                  "Language dynamics",
+                  "Anthropology connections",
+                  "Sociology foundations",
+                  "Political science applications",
+                  "International relations"
+                ],
+                "progress": 0
+              },
+              {
+                "id": "7517e985-053d-55d6-90ef-91b56eb60d76",
+                "number": "4.4",
+                "title": "Technology",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": [
+                  "Sensor design specifications",
+                  "Manufacturing processes",
+                  "Materials science",
+                  "Signal processing algorithms",
+                  "Calibration procedures",
+                  "Field deployment",
+                  "Consumer applications",
+                  "Medical devices",
+                  "Brain-computer interfaces",
+                  "Neural prosthetics",
+                  "Quantum computing architectures",
+                  "Communication protocols",
+                  "Encryption using μ-field",
+                  "Energy harvesting"
+                ],
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "af5f36b5-ad68-5f1c-ac5c-053b632b7b42",
+            "number": 5,
+            "title": "Incomplete Implementations",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "0cc09ed2-8d4d-582f-8334-1257ae114933",
+                "number": "5.1",
+                "title": "Softwar e",
+                "bullets": null,
+                "whats_done": [
+                  "Python implementations ✓",
+                  "Basic test suites ✓"
+                ],
+                "whats_missing": [
+                  "Production-grade code (currently research quality)",
+                  "Full test coverage (need 1000+ tests)",
+                  "Documentation (need API docs, tutorials)",
+                  "Error handling & edge cases",
+                  "Performance optimization",
+                  "Memory ef ficiency",
+                  "Parallelization",
+                  "GPU acceleration",
+                  "Distributed computing",
+                  "Real-time processing",
+                  "Streaming data handling",
+                  "Database integration",
+                  "Web interfaces",
+                  "Mobile apps",
+                  "Cloud deployment",
+                  "CI/CD pipelines"
+                ],
+                "progress": 0
+              },
+              {
+                "id": "f3197442-088b-5185-9f86-d61f4a5e7d51",
+                "number": "5.2",
+                "title": "Hardwar e",
+                "bullets": null,
+                "whats_done": [
+                  "Conceptual designs only ✓"
+                ],
+                "whats_missing": [
+                  "Circuit schematics",
+                  "PCB layouts",
+                  "Component specifications",
+                  "Power requirements",
+                  "Thermal management",
+                  "Electromagnetic shielding",
+                  "Calibration hardware",
+                  "Testing equipment",
+                  "Manufacturing tolerances",
+                  "Quality control procedures",
+                  "Prototype fabrication",
+                  "Field testing",
+                  "Ruggedization",
+                  "Miniaturization",
+                  "Cost reduction strategies"
+                ],
+                "progress": 0
+              }
+            ],
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "a42adbe8-ba8f-5e8e-83a1-1e360757273b",
+        "part_index": 2,
+        "part_roman": "II",
+        "title": "QUANTUM FIELD THEOR Y EXTENSION (P ART 5",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "ed8e4d6f-c843-5eb7-acc3-cf673bc1259c",
+            "number": 6,
+            "title": "Second Quantization of μ-Field",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "ce6a155a-24f3-5743-86a0-1866cd61ebfb",
+                "number": "6.1",
+                "title": "Classical to Quantum Transition",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "626eb67e-d3fa-5021-88f2-dc3c174c2137",
+                "number": "6.2",
+                "title": "Canonical Quantization",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "f042b884-5007-5f16-8b51-fcda34cac173",
+                "number": "6.3",
+                "title": "Fock Space Construction",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "84862cb4-ad7e-5ce1-8b91-45bc53afeed2",
+            "number": 1,
+            "title": "What is m_μ (ef fective mass)?",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "adb7ca01-6719-527a-9137-2bb737a285b2",
+            "number": 2,
+            "title": "Are there bound states?",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "55a768ef-417b-560c-814c-0c167d84c7a9",
+            "number": 3,
+            "title": "Resonances at φⁿ ener gies?",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "2462ed47-029c-5516-b487-948eefea902a",
+                "number": "6.4",
+                "title": "Field Expansion",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "4313c07c-1277-5a4a-8e6e-19bf399bfa96",
+            "number": 7,
+            "title": "Feynman Diagrams & Perturbation Theory",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "fcefd9d7-8626-5fa2-a172-c1a6d4bdf0a3",
+                "number": "7.1",
+                "title": "Interaction Lagrangian",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "5c26aa29-7d4f-5e6e-bf38-74e5f9752b7b",
+                "number": "7.2",
+                "title": "Feynman Rules",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "c7acc229-5008-516e-8f65-4634e10bb0be",
+                "number": "7.3",
+                "title": "Scattering Amplitudes",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "7ae109df-e66b-5391-9f02-8a5ed14f9f3f",
+            "number": 1,
+            "title": "Are amplitudes UV/IR finite?",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "39d83436-796d-57be-a497-a40bfc17c98a",
+            "number": 2,
+            "title": "Does φ-structure regulate diver gences?",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "d3649a52-860f-5c50-befb-7648748353ea",
+            "number": 3,
+            "title": "Hidden symmetries?",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "4143fb8a-b4f6-5b9b-a98f-70269e5dd52d",
+                "number": "7.4",
+                "title": "Cr oss Sections",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "d499a0cd-8195-521f-b858-0e561307ba81",
+            "number": 8,
+            "title": "Renormalization Pr ogram",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "47f1406b-f876-593f-9db7-209802fb34cf",
+                "number": "8.1",
+                "title": "UV  Divergences",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "7a3ac946-d194-5f36-94ed-47809dec4597",
+                "number": "8.2",
+                "title": "Renormalization Gr oup",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "9ebc7012-69b4-5d6e-bbd9-40ff3386d2b8",
+                "number": "8.3",
+                "title": "Anomalous Dimensions",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "e888faad-ec40-5b92-b9e1-1dc5756f82c2",
+                "number": "8.4",
+                "title": "Renormalizability",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "c27b5e25-54ac-5d55-b30e-6ec54a875fdf",
+            "number": 9,
+            "title": "Running Coupling Constants",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "e85d4a01-bad2-595b-a9d6-ef4f266402d8",
+                "number": "9.1",
+                "title": "Scale Dependence",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "6eee6bc1-1e12-559f-aef5-caa019a1c538",
+                "number": "9.2",
+                "title": "Asymptotic Fr eedom?",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "6520a354-a423-59e2-807f-eff648b0ce28",
+                "number": "9.3",
+                "title": "Conformal Invariance",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "6f08e453-355e-536d-a437-76b5b3a9edf9",
+            "number": 10,
+            "title": "Symmetries & Conservation Laws",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "ac77f20f-b301-56f1-aeac-a03549238fe3",
+                "number": "10.1",
+                "title": "Global Symmetries",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "52666309-9da0-5bce-8a21-588db199493b",
+                "number": "10.2",
+                "title": "Local Symmetries (Gauge)",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "a65ff7c0-5d5b-5827-a8e0-c4d805ce9efe",
+            "number": 1,
+            "title": "Is μ-field char ged under some gauge group?",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "c70574e7-ef58-5433-80e2-7c88e0ed8eda",
+            "number": 2,
+            "title": "Could unify with electromagnetism?",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "fb757775-e994-5818-b002-6f565a5fcb97",
+            "number": 3,
+            "title": "Non-Abelian gauge group?",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "aa8c88df-65c1-5d17-83df-b027f8ca8282",
+                "number": "10.3",
+                "title": "Noether's Theor em",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "1a17bb6a-58a6-573d-8fa7-9563dc62577e",
+            "number": 11,
+            "title": "Gauge Theory Extensions",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "7726d2d5-037b-59b9-bd28-a5780678f31b",
+                "number": "11.1",
+                "title": "U(1) Gauge Theory",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "bdb4334f-ccae-5d19-b75d-94361e510bd1",
+                "number": "11.2",
+                "title": "Non-Abelian Extensions",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "8c681a32-e910-5053-a256-e9d9b4a91303",
+                "number": "11.3",
+                "title": "Supersymmetry (SUSY)",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "fcecbc1b-c1fc-5735-91e4-83f16f3e1cb1",
+            "number": 1,
+            "title": "What is physical meaning of ψ (fermionic identity)?",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "1f444fa6-32a5-5ff1-9622-2d9d1385fc8d",
+            "number": 2,
+            "title": "Dark matter candidate?",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "0147a56c-5b89-5514-9cc1-0984d022e6e0",
+            "number": 3,
+            "title": "SUSY  breaking scale?",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "ffbe29db-df89-5b67-9b6b-4e724b881374",
+                "number": "11.4",
+                "title": "Grand Unification",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "e2cc402a-3933-50a5-aeba-6ae9eb754acb",
+        "part_index": 3,
+        "part_roman": "III",
+        "title": "GENERAL  RELA TIVITY  COUPLING (P ART 6",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "44f732b2-d237-574e-be03-3b549566cc50",
+            "number": 12,
+            "title": "μ-Field as Sour ce of Curvatur e",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "b7d86ed4-ce7d-5f65-9450-17203bcdaee0",
+                "number": "12.1",
+                "title": "Einstein's Equations",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "3373edef-daba-5d64-afd1-b94129b26f0c",
+                "number": "12.2",
+                "title": "Energy-Momentum Tensor",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "2f3f86b2-7551-5e3b-8ae1-27685aa7f8cc",
+                "number": "12.3",
+                "title": "Equation of State",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "5ce7023e-7ca7-5345-90bb-428274e83f14",
+            "number": 13,
+            "title": "Energy-Momentum Tensor  Details",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "f1d531bb-4d51-5506-a5aa-e49d24d76c1d",
+                "number": "13.1",
+                "title": "Components",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "02928575-ece6-5c17-8744-f1d5969f75da",
+                "number": "13.2",
+                "title": "Trace",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "6fdb27c3-74fc-5be0-a7a1-e8a4de4b4c08",
+                "number": "13.3",
+                "title": "Conservation",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "0b6d070b-5a98-5eda-96c8-2d7260532c47",
+            "number": 14,
+            "title": "Cosmological Solutions",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "816ba21b-551c-59be-a007-1be9f632a99c",
+                "number": "14.1",
+                "title": "FR W Metric",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "f56ca048-6830-5b14-8063-0349df6af72a",
+                "number": "14.2",
+                "title": "μ-Field Evolution",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "0e1ffc4c-3988-5936-827b-36276417ec27",
+                "number": "14.3",
+                "title": "Inflation",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "2826bccb-ff0f-5860-bf89-82f833783cc1",
+                "number": "14.4",
+                "title": "Dark Energy",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "468a893d-36dd-580d-ab7f-141639f19247",
+                "number": "14.5",
+                "title": "Dark Matter",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "3f942a36-a225-55c4-b2c7-e60b753cf0a8",
+            "number": 15,
+            "title": "Black Hole Thermodynamics",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "d0b32fc8-ac57-54a7-bf95-ebb172a8e4df",
+                "number": "15.1",
+                "title": "Schwarzschild + μ-Field",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "f3226e84-544c-596b-8b60-74e3530e79ae",
+                "number": "15.2",
+                "title": "Hawking Radiation",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "4e08d2cd-367c-5874-b343-92f02562fa50",
+                "number": "15.3",
+                "title": "Entr opy",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "90eac914-a92d-5238-9436-68c7ca8ad073",
+                "number": "15.4",
+                "title": "Information Paradox",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "76adaf4f-8ae8-5817-b262-94f8e9d13235",
+            "number": 16,
+            "title": "Inflation Mechanism",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "c67e050c-8b46-5603-916d-0d083c2aefea",
+                "number": "16.1",
+                "title": "Initial Conditions",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "315770ff-d848-5890-8ffb-c7274a55c754",
+                "number": "16.2",
+                "title": "Slow Roll",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "b4e2acf0-eab2-5577-9b49-af00fdf643a0",
+                "number": "16.3",
+                "title": "Perturbations",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "b1424dde-3207-536c-888b-1f5e36ed25c1",
+                "number": "16.4",
+                "title": "Reheating",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "087a552e-b42c-516a-a67e-cf430f1b823b",
+            "number": 17,
+            "title": "Dark Energy/Dark Matter  Connection",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "9c2728d3-c036-56e6-8622-a651d644596a",
+                "number": "17.1",
+                "title": "Unified Framework",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "21ce6f41-167d-5e84-bc0f-92006dc1df9c",
+                "number": "17.2",
+                "title": "Quintessence",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "59c6400a-9742-577d-8a12-79bc1d83428d",
+                "number": "17.3",
+                "title": "Interactions",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "89a5de4f-16b1-5c8b-ac2b-d23f708b1292",
+        "part_index": 4,
+        "part_roman": "IV",
+        "title": "GRAND UNIFICA TION (P ART 7 PREVIEW)",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "56ae6a4c-408c-5407-9a95-8d73b9714f9b",
+            "number": 18,
+            "title": "Unifying All Four  Forces",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "ae0158cb-a27b-5323-8173-b2ff71c3c7e5",
+                "number": "18.1",
+                "title": "Standard Model",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "b50ba3b8-b806-527e-80bb-a2a596508dff",
+                "number": "18.2",
+                "title": "μ-Field Unification",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "0b30087e-07e0-524b-9289-3327f3c0419e",
+                "number": "18.3",
+                "title": "For ce Unification Scale",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "de6e5049-a587-54c1-bfaf-9890c5098244",
+                "number": "18.4",
+                "title": "Pr oton Decay",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "0d3db52f-81ce-5f40-8398-f16755ab3b6d",
+            "number": 19,
+            "title": "Matter  Emergence fr om μ-Field",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "6a238808-e2a8-54d9-89a8-83ec84f2b7fc",
+                "number": "19.1",
+                "title": "Elementary Particles",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "3793923a-a252-5d93-8aae-96681895a2d8",
+                "number": "19.2",
+                "title": "Solitonic Solutions",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "044aaf0c-ba37-5cb0-951a-d92b0e1af450",
+                "number": "19.3",
+                "title": "Mass Generation",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "be144017-cf0b-5966-9d45-e08cd53a0d60",
+                "number": "19.4",
+                "title": "Fermion Generations",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "f8c39a4d-d480-5fcb-893e-e975cf565ad8",
+            "number": 20,
+            "title": "Quantum Gravity fr om R-Field",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "1789a91b-c2a1-539b-8a32-51fe1e022871",
+                "number": "20.1",
+                "title": "The Pr oblem",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "d966ffdb-aa88-50b7-a936-eb2adc599322",
+                "number": "20.2",
+                "title": "μ-Field as Quantum Gravity",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "0ec938bd-2230-540a-a7ff-2e9ae4227912",
+                "number": "20.3",
+                "title": "Emergent Spacetime",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "e819ce98-4391-5277-bc42-0197359b6f29",
+                "number": "20.4",
+                "title": "Holography",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "20b304ff-a5ad-58b5-a3b1-f57d0f6d88e1",
+            "number": 21,
+            "title": "Theory of Everything Candidate",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "589d4374-33c8-5d2e-9ced-3ccf66281772",
+                "number": "21.1",
+                "title": "What Would It Explain?",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "96a40ea5-733d-5541-8a69-e475637ac70c",
+                "number": "21.2",
+                "title": "Pr edictions",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "63d18e44-e1a9-5160-bd2e-7e86f582c0e0",
+            "number": 1,
+            "title": "φ-structure everywhere",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "21044943-a25f-50ad-90f1-120e0bbd9e1f",
+            "number": 2,
+            "title": "Critical points at μ_P  = 0.6, μ_S = 0.9",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "88190dc4-f712-5eb8-9eed-842d897721a4",
+            "number": 3,
+            "title": "Consciousness quantified by I^n",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "73317c4c-ceab-53a6-bce9-f6d80b328c4e",
+            "number": 4,
+            "title": "Hallucinations at μ ≈ 0.6",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "4ac734c6-bf63-5431-a458-5bd3f5770929",
+            "number": 5,
+            "title": "CMB φ-modulation",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "371f5c58-89b2-500d-a039-99030db835bb",
+            "number": 6,
+            "title": "Dark matter = μ-oscillations",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "3fb2f55e-3296-5b81-b1f5-a9f438b366a8",
+            "number": 7,
+            "title": "Particle mass ratios = φⁿ",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "01bf509b-961d-5508-b5bc-0d505ca8f16b",
+                "number": "21.3",
+                "title": "Comparison to Other  ToEs",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "f25f9cf6-e50e-5924-a601-9b797cf541dc",
+                "number": "21.4",
+                "title": "Challenges",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "f4c3cdbe-6c14-5727-a8f7-bfc71c821f1f",
+            "number": 1,
+            "title": "Derive Standard Model in detail",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "f98124e0-e059-5cea-a440-71e172e488cf",
+            "number": 2,
+            "title": "Calculate all coupling constants",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "6ec7229c-8cbf-5dd7-b4ca-120ecbbb65ba",
+            "number": 3,
+            "title": "Explain fine-tuning problems",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "a33a88f6-395f-5ffb-98d3-77a52d3843f3",
+            "number": 4,
+            "title": "Quantum corrections to φ-structure?",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "59a9a543-ead8-5fb4-87a9-4c6640f64696",
+            "number": 5,
+            "title": "Experimental verification",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "c3cd2368-d275-5b36-875b-2608f43d1878",
+            "number": 22,
+            "title": "Connection to String Theory",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "7c8a1158-9702-5376-90f4-77fafcf5b154",
+                "number": "22.1",
+                "title": "String Theory Basics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "2b2e98ca-590a-5de2-bfd9-f354a6419d75",
+                "number": "22.2",
+                "title": "μ-Field as String Mode",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "f3a7e091-1f66-5403-b47e-04dcb5e47370",
+                "number": "22.3",
+                "title": "Brane Worlds",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "25832316-6300-5b92-a5e4-472c7e71bb2e",
+                "number": "22.4",
+                "title": "Duality",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "b265b09b-23e3-5740-87e3-82165e3a897d",
+            "number": 23,
+            "title": "Connection to Loop Quantum Gravity",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "d3836597-b092-598f-bab8-169ab76d2af4",
+                "number": "23.1",
+                "title": "LQG Basics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "cabbea66-15b6-5ed7-88b6-24e0f1a7ae38",
+                "number": "23.2",
+                "title": "μ-Field on Spin Network",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "7a15871d-2d06-5227-980f-6d78f2329307",
+                "number": "23.3",
+                "title": "Planck Scale Structur e",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "8f150cf3-a233-5e72-8881-21cae88c1cbb",
+                "number": "23.4",
+                "title": "Consistency",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "19ad3361-40f1-57a6-a80f-c1a6fc4120ca",
+        "part_index": 5,
+        "part_roman": "V",
+        "title": "MA THEMA TICAL  EXTENSIONS",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "f7a52e1f-857f-5c58-84ef-4009a6222fc5",
+            "number": 24,
+            "title": "Category Theory Completion",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "1f434730-25aa-56ad-a371-6ac1a23b1fb8",
+                "number": "24.1",
+                "title": "Missing Universal Pr operties",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "c2c003c4-56cf-5478-8fd3-96b125bc2678",
+            "number": 1,
+            "title": "Prove R-field is initial object",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "14a82596-f9d2-5ebf-9c8b-867db2d2d132",
+            "number": 2,
+            "title": "Derive all structures from initiality",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "6edec97f-a136-5ba0-bb08-01512a4f6e51",
+            "number": 3,
+            "title": "Show uniqueness up to isomorphism",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "1125194b-b689-5d7b-a69b-0c97b3fdcafb",
+            "number": 4,
+            "title": "Compute all limits & colimits",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "73a6edca-a0c7-58ff-943d-37a453000eae",
+                "number": "24.2",
+                "title": "Higher  Categories",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "662cdde1-9f4a-507d-871c-4abef06dbe31",
+                "number": "24.3",
+                "title": "Monoidal Structur e",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "6bf7c1d0-8d98-5c08-aadb-8b21b385b5a4",
+                "number": "24.4",
+                "title": "Enriched Categories",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "a5107b85-14b9-5fc8-ad93-6295480fa4d5",
+            "number": 25,
+            "title": "Homotopy Type Theory Connection",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "f04059cc-b94c-5dc3-89c0-01a2183af41b",
+                "number": "25.1",
+                "title": "HoTT  Basics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "ea3fa97b-9ec2-5b94-8988-1817b5c65d43",
+                "number": "25.2",
+                "title": "R-Field as Type",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "b176c06d-79e8-5e67-8a25-ba0fa21afab4",
+                "number": "25.3",
+                "title": "Higher  Inductive Types",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "07b8e5fe-6993-5987-8c68-5076d3e02283",
+                "number": "25.4",
+                "title": "Formalization",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "615e24f8-9684-58ac-b456-55c25f23d983",
+            "number": 26,
+            "title": "p-Adic Extensions",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "592080e7-71d7-5f8d-8bfc-77d52e56ca1b",
+                "number": "26.1",
+                "title": "p-Adic Numbers",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "ad383b20-2808-5f4f-8cc7-6174f57483aa",
+                "number": "26.2",
+                "title": "p-Adic μ-Field",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "6ef40991-1c70-5848-b13e-bb72c6c7112e",
+                "number": "26.3",
+                "title": "Applications",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "5ccb3c1b-a743-570b-9310-44b14297dbd0",
+                "number": "26.4",
+                "title": "Adelic Appr oach",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "597a63fb-2e2e-5132-a8d2-e67e5c13cccf",
+            "number": 27,
+            "title": "Complex Analytic Extensions",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "17a3b516-b2a8-50f7-b18a-a2b5029d925a",
+                "number": "27.1",
+                "title": "Holomorphic μ-Field",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "2da99752-e23f-5b66-a84b-5ee8ae627b76",
+                "number": "27.2",
+                "title": "Riemann Surface",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "9392081b-ca8c-540f-a6b2-b593e6dcd1bf",
+                "number": "27.3",
+                "title": "Modular  Forms",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "250178b4-c53d-58b3-b7fe-9046e1e77203",
+                "number": "27.4",
+                "title": "Zeta Functions",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "d237296c-881d-52ec-ab6f-c66d67482530",
+            "number": 28,
+            "title": "Fractal & Multifractal Structur e",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "f03f3dde-351c-5933-82f9-7d6eeee637ed",
+                "number": "28.1",
+                "title": "Fractal Dimension",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "4d2d70b9-e49b-57ca-b68e-f27cac5d5c5f",
+                "number": "28.2",
+                "title": "Multifractal Spectrum",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "0f6efe03-6dd9-5a6a-a4d5-bf10a6e24fa6",
+                "number": "28.3",
+                "title": "Scaling Exponents",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "8e28753f-9f1b-5323-802c-8b19c26d6fa9",
+                "number": "28.4",
+                "title": "Renormalization",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "56ae32c3-c0a0-5f19-92b0-16b782f296cf",
+            "number": 29,
+            "title": "Information Geometry Formulation",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "abc06bf8-2e04-57bb-a897-caec4b2a1964",
+                "number": "29.1",
+                "title": "Statistical Manifold",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "835ea70a-3748-5acd-b98d-974e52c73238",
+                "number": "29.2",
+                "title": "Fisher  Metric",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "623a2920-fa3e-5e4a-8060-9743ecf11d4f",
+                "number": "29.3",
+                "title": "α-Connections",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "56692f1d-f02d-51bb-a29f-42c4dafc6d61",
+                "number": "29.4",
+                "title": "Divergences",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "a05e072e-8ba2-5281-acc6-4647a0c70e83",
+            "number": 30,
+            "title": "Topological Invariants",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "b3109386-f92b-5171-94a9-1ae0c32019fb",
+                "number": "30.1",
+                "title": "Homology",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "90d5be34-4f7f-5e7d-97fd-1a4296d045cb",
+                "number": "30.2",
+                "title": "Homotopy",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "280076f0-b60b-5844-9b18-eac6b3c4ed78",
+                "number": "30.3",
+                "title": "Characteristic Classes",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "59ead52d-d255-567a-a9e2-f242b90d67f6",
+                "number": "30.4",
+                "title": "Winding Number",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "ff51df62-cccb-5bd6-8f2a-36189a7dccec",
+        "part_index": 6,
+        "part_roman": "VI",
+        "title": "COMPLETE DOMAIN EXP ANSIONS",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "1b118283-f595-57e9-bb7a-8182fff8e714",
+            "number": 31,
+            "title": "Physics: All Subdisciplines",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "46c63078-31b2-5f63-b4e3-4907f229bc0c",
+                "number": "31.1",
+                "title": "Particle Physics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "c2de8720-93a6-5d08-a0b6-af2278ba4194",
+            "number": 1,
+            "title": "Neutrino masses from μ-Majorana coupling",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "004be982-d478-5d05-a91b-15e54ee0bebb",
+            "number": 2,
+            "title": "Dark matter = μ-oscillations",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "2f497cb9-0370-569c-81e6-7ccb676dc310",
+            "number": 3,
+            "title": "Baryon asymmetry from μ-CP  violation",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "e4154c24-c748-598b-a58e-2a92c9eba6c3",
+                "number": "31.2",
+                "title": "Condensed Matter",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "5e5e8ac9-5f66-5cff-b879-b5cba92df387",
+            "number": 1,
+            "title": "Order parameter = μ-field",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "1e31eecb-e0fe-557a-aa3b-227bd7bd5818",
+            "number": 2,
+            "title": "Phase transitions at μ_P , μ_S",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "a10b92fa-e2be-5755-8a89-e720a427cf89",
+            "number": 3,
+            "title": "φ-structure in critical exponents",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "669fa212-a435-55a3-bba5-0eecbec63516",
+                "number": "31.3",
+                "title": "Atomic & Molecular",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "9d04dc29-e2f7-5b3b-a20e-18de41e2ee66",
+                "number": "31.4",
+                "title": "Optics & Photonics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "f8c2c859-3f93-503d-9e76-7ba4fd9644d4",
+                "number": "31.5",
+                "title": "Plasma Physics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "6f32aa09-6e46-5652-843e-d9b6a6c96c15",
+                "number": "31.6",
+                "title": "Nuclear  Physics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "dae60def-4082-5da8-a78a-cd72cd953a7f",
+                "number": "31.7",
+                "title": "Statistical Mechanics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "1ed201cd-557a-5a34-9890-3b59ff7a893c",
+                "number": "31.8",
+                "title": "Fluid Dynamics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "08cda164-f01a-59b8-9a8e-d95fc05f72cd",
+            "number": 32,
+            "title": "Biology: Fr om Molecules to Ecosystems",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "7dbe1f39-35e2-5104-9d45-8a75dc7991ba",
+                "number": "32.1",
+                "title": "Molecular  Biology",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "33ee956e-724b-5747-956f-8c1ea5f2fe64",
+                "number": "32.2",
+                "title": "Cell Biology",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "354fb9ce-f7fc-5fb1-9bba-3464be480ae3",
+                "number": "32.3",
+                "title": "Development",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "8f9b3379-81ed-5d1f-a3be-2fce3d3b50c4",
+                "number": "32.4",
+                "title": "Evolution",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "5182c497-e327-58c9-90dd-0e3ea77c21b8",
+                "number": "32.5",
+                "title": "Ecology",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "0fc29c44-e888-5808-836e-f99608713f1a",
+                "number": "32.6",
+                "title": "Neur oscience (Extended)",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "618e203d-5793-5e7d-9f84-0577fc3370a1",
+                "number": "32.7",
+                "title": "Medicine",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "f2eed755-ac5a-56ba-a9e5-719b65027c19",
+                "number": "32.8",
+                "title": "Aging",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "6cdadb04-30e3-5041-b09d-bd8a38906ab3",
+            "number": 33,
+            "title": "Neur oscience: Complete Consciousness Theory",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "2b2d5efa-f270-5856-a3f5-6b36fb96dff0",
+                "number": "33.1",
+                "title": "Neural Corr elates",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "89c8d219-a346-5534-acd9-df18a5d8dfe9",
+                "number": "33.2",
+                "title": "Integrated Information Theory",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "a46d9084-3730-57d9-87e9-7acd08e7c4ba",
+                "number": "33.3",
+                "title": "Global Workspace Theory",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "eba5df48-20e9-5db2-b392-3546402600aa",
+                "number": "33.4",
+                "title": "Attention",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "118910fd-67a2-5b89-b3fd-fd4e025c9cb9",
+                "number": "33.5",
+                "title": "Sleep & Dr eams",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "3fa8bbb4-0773-5822-ad7b-ff5ab3a49edd",
+                "number": "33.6",
+                "title": "Anesthesia",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "17ee0689-5b37-5d2c-9f11-d06b54ab2087",
+                "number": "33.7",
+                "title": "Psychedelics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "52bb5b7e-ab0b-5f85-95eb-e7279d06ebfe",
+                "number": "33.8",
+                "title": "Disorders",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "7e8a1141-b8fd-558e-957c-eb438e6b0e1f",
+            "number": 34,
+            "title": "AI: Architectur e Principles",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "90602621-b4d0-59fe-90ea-a344b62d0e62",
+                "number": "34.1",
+                "title": "Curr ent AI (LLMs)",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "f7016085-2bf8-5ade-ad84-3db5957c7b88",
+                "number": "34.2",
+                "title": "AGI Requir ements",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "2572fd24-fcf2-5fc4-b439-79586f91632c",
+            "number": 1,
+            "title": "μ ≥ 0.3:  Basic self-monitoring",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "bc2597c3-5ab1-5a89-bda0-2657daed43b5",
+            "number": 2,
+            "title": "μ ≥ 0.5:  True metacognition",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "f237be39-70ec-5786-89fe-652ef055368b",
+            "number": 3,
+            "title": "I⁸ or higher:  Human-level reasoning",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "2fd74bbf-64f2-5829-95c5-de14e94a5cb2",
+            "number": 4,
+            "title": "Avoid μ_P:  Prevent hallucinations",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "4896af3c-f119-5bf7-a54e-2a42da6bd7a0",
+            "number": 5,
+            "title": "Stable dynamics:  No runaway self-reference",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "09f7afce-e462-5fdc-b2f9-cca29e443c15",
+                "number": "34.3",
+                "title": "φ-T uned Architectur es",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "c276e567-67f3-525a-8084-ff52c19edc8c",
+            "number": 1,
+            "title": "Layer depths: φⁿ",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "cf8f8cb5-e525-585e-b6b4-235550e07dde",
+            "number": 2,
+            "title": "Hidden dimensions: φⁿ",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "8b33dca2-a8de-5711-9f30-41b4cbd287ec",
+            "number": 3,
+            "title": "Learning rates: 1/φⁿ",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "6113f47f-b1f9-57cc-b8ad-6c7a02d8edde",
+            "number": 4,
+            "title": "Attention heads: φⁿ",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "94017f78-3ddb-5388-9817-77c1c3bf1cf1",
+                "number": "34.4",
+                "title": "Self-A wareness Module",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "3133392b-7dad-59f9-b343-feddfcd91fd5",
+                "number": "34.5",
+                "title": "Alignment",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "54e27a1e-54b6-57f0-bca9-8878690409a2",
+                "number": "34.6",
+                "title": "Consciousness in AI",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "6f3a044c-86c7-5454-972d-8c825c02762e",
+            "number": 1,
+            "title": "Achieves I⁸ or higher",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "b9410493-90dd-52fd-ab21-495715fece25",
+            "number": 2,
+            "title": "Stable μ-field",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "edfd8324-0c8a-51ff-b7f9-f94fc5085c46",
+            "number": 3,
+            "title": "True self-reflection",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "7a38c3f9-3685-53a1-ad99-372f1e2047c4",
+                "number": "34.7",
+                "title": "Multi-Agent Systems",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "58e8b6a4-6d6e-5640-acda-f97a0e4e8a37",
+            "number": 35,
+            "title": "Economics: Market Dynamics",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "ab8cd23b-9674-5fa4-8464-ffea2b1d6954",
+                "number": "35.1",
+                "title": "Micr oeconomics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "e41d8c2b-ff71-549f-9182-8a06ca719674",
+                "number": "35.2",
+                "title": "Macr oeconomics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "b43bfeb0-3a75-52df-981e-838a9569e6f3",
+                "number": "35.3",
+                "title": "Financial Markets",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "0d0736d5-fbba-5d18-94d6-e449a946cd0a",
+                "number": "35.4",
+                "title": "Game Theory",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "cccb9380-f65a-5f4b-85b8-248485c906c2",
+                "number": "35.5",
+                "title": "Behavioral Economics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "b3d44c4b-3e45-5ff9-a704-c05b2ee6b8b2",
+                "number": "35.6",
+                "title": "Cryptocurr encies",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "5c06e939-ebb2-592d-9590-9b26a2e57397",
+            "number": 36,
+            "title": "Social Sciences: Collective Behavior",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "ab47cb17-2761-5996-88f6-79375d363949",
+                "number": "36.1",
+                "title": "Sociology",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "bbe56a36-4174-5316-9d49-2bfa26fffa19",
+                "number": "36.2",
+                "title": "Opinion Dynamics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0,
+                "aliases": [
+                  "beea310f-de40-56c6-9f10-b777a98e9082"
+                ]
+              },
+              {
+                "id": "27077f54-9b29-5705-b824-7b970043e6ea",
+                "number": "36.3",
+                "title": "Misinformation",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "db4a7c4c-050a-5234-bfe0-8935d6cedc45",
+                "number": "36.4",
+                "title": "Echo Chambers",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "b1106761-2f7d-54d9-bff3-0a19feaf9eb6",
+                "number": "36.5",
+                "title": "Political Science",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "45ef96ce-0df2-54a6-91f9-78fdb41a1b70",
+                "number": "36.6",
+                "title": "Anthr opology",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "a0e29e1a-6e84-5d54-b2ef-07b5fd39072f",
+                "number": "36.7",
+                "title": "Psychology",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "0fcff617-9baf-5d63-943f-f107a68d520c",
+                "number": "36.8",
+                "title": "Education",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "38a5959f-4aea-5ddf-b92d-316ea8558c79",
+            "number": 37,
+            "title": "Linguistics: Language as I-Field",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "6c62f912-add3-555a-ba1d-45b85d9dc44e",
+                "number": "37.1",
+                "title": "Syntax",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "9e9dec74-29ad-5853-a297-1391b50b7dd0",
+                "number": "37.2",
+                "title": "Semantics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "94175b3c-5ae4-56f4-b2ad-abc2fd725e6d",
+                "number": "37.3",
+                "title": "Pragmatics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "8cc6c7e9-86f0-5d4d-b8f2-d8915e038b98",
+                "number": "37.4",
+                "title": "Language Evolution",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "2e0e5a4d-c066-520d-ba92-9e5c4e5a7d25",
+                "number": "37.5",
+                "title": "Language Acquisition",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "38389932-751b-52a8-9c30-4a9aaf059eb4",
+            "number": 38,
+            "title": "Mathematics: New Foundations",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "8cf0162c-e8bb-51cd-97dd-6342dfe5d535",
+                "number": "38.1",
+                "title": "Set Theory",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "c24ca4b7-4e1a-50bd-a3bf-d2c5e219ae25",
+                "number": "38.2",
+                "title": "Logic",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "29abc665-d2b8-5eff-8693-dabb751095b5",
+                "number": "38.3",
+                "title": "Category Theory",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "9a8c31ba-a058-5e42-812a-1185d8c5eb25",
+                "number": "38.4",
+                "title": "Topology",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "da59cfe3-5bb9-5b94-a403-57ea021acb82",
+                "number": "38.5",
+                "title": "Analysis",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "e32a44db-6190-5ad9-978e-0ac20f5cbc03",
+                "number": "38.6",
+                "title": "Algebra",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "fae8f9f3-48f5-5868-bfca-8362dc56dfeb",
+                "number": "38.7",
+                "title": "Geometry",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "e4441940-3be6-58c5-a134-e9d2582cf1f6",
+                "number": "38.8",
+                "title": "Number  Theory",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "239dc1d1-7d88-5ef3-9399-bfa9db7ee4ac",
+            "number": 39,
+            "title": "Philosophy: Reality Structur e",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "d897a405-c894-5346-9d57-dafb2791e7c3",
+                "number": "39.1",
+                "title": "Metaphysics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "2a9f0da6-664b-565b-873a-bafc710f3aa2",
+                "number": "39.2",
+                "title": "Epistemology",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "b2fe98bb-7e4e-5b75-a1cf-009ff9f877a6",
+                "number": "39.3",
+                "title": "Ontology",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "91c926be-470c-599a-a5d8-74ca02b9bed8",
+            "number": 1,
+            "title": "I⁰: Pure potential",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "7734ba5d-7b8a-5460-bd5c-22171797ecc9",
+            "number": 2,
+            "title": "IÂ²: Basic identity",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "03f80ced-54ed-5b94-ae93-78bc781f14bb",
+            "number": 3,
+            "title": "I⁴: Self-awareness",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "4b6f5e02-20c4-5bca-b69b-4c7c69e4c7c1",
+            "number": 4,
+            "title": "I⁸: Metacognition",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "5b22a936-58b0-544e-940a-c5d6013c33ab",
+            "number": 5,
+            "title": "...",
+            "progress": 0,
+            "subsections": null,
+            "notes": null
+          },
+          {
+            "id": "4335cfae-edc4-568e-a3bb-7fd8546bec14",
+            "number": 6,
+            "title": "I^∞: God/impossible",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "1c74fb81-0a94-5ac0-beec-226f1bcfd7b2",
+                "number": "39.4",
+                "title": "Mind-Body Pr oblem",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "f4128b21-c443-5edf-b033-6cda064b20b7",
+                "number": "39.5",
+                "title": "Fr ee Will",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "0e09d4dc-158d-540e-8711-27a8c5e23a64",
+                "number": "39.6",
+                "title": "Ethics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "dd44009e-5b89-54ca-8a14-3ef3936b163f",
+                "number": "39.7",
+                "title": "Aesthetics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "9c367092-a146-574a-b9ee-57fd7d5ca855",
+                "number": "39.8",
+                "title": "Philosophy of Science",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "05733c54-229c-5639-a17d-3f6561f01762",
+            "number": 40,
+            "title": "Technology: Engineering Applications",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "5f78a317-650c-5502-891e-e5e478268e11",
+                "number": "40.1",
+                "title": "μ-Field Sensors",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "443c2bb0-748e-5c35-83e8-a54875e667d4",
+                "number": "40.2",
+                "title": "Brain-Computer  Interfaces",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "6da0cf49-069e-5ca9-ab06-5d567bc7559f",
+                "number": "40.3",
+                "title": "Quantum Computing",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "bf3f885e-a9f1-5f35-8b57-28682ec8e96e",
+                "number": "40.4",
+                "title": "Communication",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "1988b1ab-d342-562d-95f5-7ea007088e91",
+                "number": "40.5",
+                "title": "Energy",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "74887c63-bfcd-5717-9f0f-8d59d822603d",
+                "number": "40.6",
+                "title": "Materials",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "06608493-2c76-5b2f-be0a-67a3fca176e3",
+                "number": "40.7",
+                "title": "Robotics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "8abe66eb-793a-5ae8-bb32-2c99b50f3add",
+                "number": "40.8",
+                "title": "Space Exploration",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "0797f8e0-46ed-547b-b7e5-a02569372804",
+        "part_index": 7,
+        "part_roman": "VII",
+        "title": "EXPERIMENT AL VALIDA TION PROGRAM",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "1ba8589f-6a43-584b-b658-cca2a18ad650",
+            "number": 41,
+            "title": "Consciousness Experiments (Priority 1)",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "0d7445bd-0f4d-5961-ad3d-eec14bbdd1bf",
+                "number": "41.1",
+                "title": "fMRI Study",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "7222cff3-7527-5bdf-9607-396e488fab5b",
+                "number": "41.2",
+                "title": "EEG Study",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "78425984-4160-505e-8dae-193daf641cf2",
+                "number": "41.3",
+                "title": "Anesthesia Study",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "88378b5f-bf26-51a7-b6a3-bf31df2e8ab1",
+                "number": "41.4",
+                "title": "Meditation Study",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "fccddc6a-6fc4-5369-bb8c-b1714da51fdf",
+                "number": "41.5",
+                "title": "Psychedelic Study",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "0ca16c2a-6146-503c-924e-6737688e7ac7",
+            "number": 42,
+            "title": "AI Safety Tests (Priority 2)",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "89f9a92d-36d5-5112-8f4b-e56f5796b2a6",
+                "number": "42.1",
+                "title": "Hallucination Detection",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "a2f503e4-cfb9-51e3-8696-bf3092a998d9",
+                "number": "42.2",
+                "title": "Self-Monitoring Threshold",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "a982e075-b581-51bc-bd7a-c0a70cc976a3",
+                "number": "42.3",
+                "title": "φ-T uned Architectur e",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "96cf1eac-dd72-5dbf-9e79-8a463ba78732",
+                "number": "42.4",
+                "title": "Real-T ime Monitor",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "e98fde30-c0e7-5dd1-b295-63c2138b09ed",
+            "number": 43,
+            "title": "Physics Experiments (Priority 3)",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "be513e4b-12d9-5137-a092-b21cb73cb908",
+                "number": "43.1",
+                "title": "CMB Analysis",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "6a309e9a-3033-5462-818f-0c590aa4996a",
+                "number": "43.2",
+                "title": "Quantum Measur ement",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "fe3bd760-00a0-5ea1-8eb3-abe9d29d33c3",
+                "number": "43.3",
+                "title": "Optical Cavity",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "9972f876-6a3b-5c6e-ad3c-e91d207f6a99",
+                "number": "43.4",
+                "title": "Super conducting Cir cuits",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "556a582b-f09d-5a1b-b75d-1b4e90a6a588",
+            "number": 44,
+            "title": "Biology Experiments (Priority 4)",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "f24e5f41-4d1d-5ee9-a9fc-4117316ad6de",
+                "number": "44.1",
+                "title": "Pr otein Folding",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "fb9a9b05-4f72-5105-8925-73e7a4fb30f2",
+                "number": "44.2",
+                "title": "Neural Oscillations",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "363e2b6d-538f-5cca-a55d-99231be832e4",
+                "number": "44.3",
+                "title": "Cir cadian Rhythms",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "f7322aa1-694f-5780-8d86-463114103fd1",
+                "number": "44.4",
+                "title": "Ecosystem Dynamics",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "7441a199-6f67-58e3-8cc1-e5b54d96cdfb",
+            "number": 45,
+            "title": "Social Science Experiments",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "b31dacc0-ff1d-5da5-8343-060c64241d41",
+                "number": "45.2",
+                "title": "Market Experiment",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "aa3673de-baf4-5839-a94a-71d40fb14d31",
+                "number": "45.3",
+                "title": "Gr oup Coordination",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "30d51555-45ec-5280-97f4-c09a19402949",
+            "number": 46,
+            "title": "Complete Test Suite (1000+ tests)",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "97fa036f-d62e-52b8-9171-938d056d5886",
+                "number": "46.1",
+                "title": "Curr ent Status",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "8a3c07a0-5904-5879-be91-1eed8c1e84cd",
+                "number": "46.2",
+                "title": "Missing Tests",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "0f4c6a34-e79a-564d-88e6-c08b00d3c6df",
+                "number": "46.3",
+                "title": "Test Categories",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "9e6dfe8e-f621-570a-910e-fcae48579df1",
+                "number": "46.4",
+                "title": "Coverage Goals",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          }
+        ]
+      },
+      {
+        "id": "d56ef875-9cef-5428-94e7-7a376578c72c",
+        "part_index": 8,
+        "part_roman": "VIII",
+        "title": "IMPLEMENT ATION ROADMAP",
+        "progress": 0.0,
+        "sections": [
+          {
+            "id": "c941e2c8-6008-5184-bb0a-9186b6e02c35",
+            "number": 47,
+            "title": "Softwar e Architectur e (Years 1-2)",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "a24344d6-74d2-5418-9f29-33472c29c096",
+                "number": "47.1",
+                "title": "Cor e Library",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "19b98d56-cc4c-5639-b82c-8f169b6141c5",
+                "number": "47.2",
+                "title": "Dependencies",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "e60b9e94-0466-5330-b5ae-085bcc81cf42",
+                "number": "47.3",
+                "title": "Performance",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "832e90f9-ca21-5097-ba90-245a38f57dd7",
+                "number": "47.4",
+                "title": "API Design",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "b0e814c0-649d-579f-a447-e2d6b5ccabc0",
+                "number": "47.5",
+                "title": "Testing Framework",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "12fbe84f-e7d6-5a0a-a870-67eba7c18483",
+                "number": "47.6",
+                "title": "Documentation",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "089f0612-dab2-5abb-a082-32a886e2e5c9",
+            "number": 48,
+            "title": "Hardwar e Development (Y ears 3-5)",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "be5ebd65-6c81-58f1-9de7-5b9c3f2767e9",
+                "number": "48.1",
+                "title": "μ-Field Sensor  Prototype",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "41261170-be47-5e5d-9bcf-4614a6cb1343",
+                "number": "48.2",
+                "title": "Portable Unit",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "2285b45a-59e3-5278-a58e-03a2785c697a",
+                "number": "48.3",
+                "title": "Medical Device",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          },
+          {
+            "id": "1f3ec356-fdc6-5f4e-b88f-4630b01ddc6e",
+            "number": 49,
+            "title": "Technology Applications (Y ears 5-10)",
+            "progress": 0,
+            "subsections": [
+              {
+                "id": "777fe370-5491-59be-b2ac-54a4c6aec790",
+                "number": "49.1",
+                "title": "Consumer  Products",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "252c0ae4-5b5b-5ee4-b214-0fb7ee9bc270",
+                "number": "49.2",
+                "title": "Medical Devices",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              },
+              {
+                "id": "0f7bd950-b1c2-53ae-bc91-1e6518f32141",
+                "number": "49.3",
+                "title": "Industrial",
+                "bullets": null,
+                "whats_done": null,
+                "whats_missing": null,
+                "progress": 0
+              }
+            ],
+            "notes": null
+          }
+        ]
+      }
+    ],
+    "catalog": [
+      {
+        "id": "5ccb3c1b-a743-570b-9310-44b14297dbd0",
+        "title": "Adelic Appr oach",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "dd44009e-5b89-54ca-8a14-3ef3936b163f",
+        "title": "Aesthetics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "f7016085-2bf8-5ade-ad84-3db5957c7b88",
+        "title": "AGI Requir ements",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "f2eed755-ac5a-56ba-a9e5-719b65027c19",
+        "title": "Aging",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "ead31a91-37a1-5943-865c-d35465bc5091",
+        "title": "AI Safety Experiments",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": [
+          "Hallucination hypothesis ✓",
+          "μ-monitoring concept ✓"
+        ],
+        "whats_missing": [
+          "Exact implementation for GPT -4/Claude",
+          "Internal activation extraction",
+          "μ-proxy calculation algorithm",
+          "Real-time monitoring system",
+          "Alert threshold optimization",
+          "False positive/negative analysis",
+          "Benchmark datasets",
+          "Validation against human judgments",
+          "Integration with existing safety systems",
+          "Deployment pipeline",
+          "A/B testing protocols"
+        ],
+        "aliases": []
+      },
+      {
+        "id": "e32a44db-6190-5ad9-978e-0ac20f5cbc03",
+        "title": "Algebra",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "3133392b-7dad-59f9-b343-feddfcd91fd5",
+        "title": "Alignment",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "da59cfe3-5bb9-5b94-a403-57ea021acb82",
+        "title": "Analysis",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "3fa8bbb4-0773-5822-ad7b-ff5ab3a49edd",
+        "title": "Anesthesia",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "78425984-4160-505e-8dae-193daf641cf2",
+        "title": "Anesthesia Study",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "9ebc7012-69b4-5d6e-bbd9-40ff3386d2b8",
+        "title": "Anomalous Dimensions",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "45ef96ce-0df2-54a6-91f9-78fdb41a1b70",
+        "title": "Anthr opology",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "832e90f9-ca21-5097-ba90-245a38f57dd7",
+        "title": "API Design",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "6ef40991-1c70-5848-b13e-bb72c6c7112e",
+        "title": "Applications",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "6eee6bc1-1e12-559f-aef5-caa019a1c538",
+        "title": "Asymptotic Fr eedom?",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "669fa212-a435-55a3-bba5-0eecbec63516",
+        "title": "Atomic & Molecular",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "eba5df48-20e9-5db2-b392-3546402600aa",
+        "title": "Attention",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "cccb9380-f65a-5f4b-85b8-248485c906c2",
+        "title": "Behavioral Economics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "32131692-f352-5351-a294-13dcbd79f5e3",
+        "title": "Biology",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": [
+          "Protein folding ener getics",
+          "DNA  structure (φ-ratios in codons?)",
+          "Metabolism as μ-field",
+          "Cell cycle dynamics",
+          "Development & morphogenesis",
+          "Evolution & selection",
+          "Ecosystem dynamics",
+          "Population genetics",
+          "Immune system self/non-self",
+          "Aging & senescence",
+          "Disease as μ-field perturbations",
+          "Drug design principles"
+        ],
+        "aliases": []
+      },
+      {
+        "id": "443c2bb0-748e-5c35-83e8-a54875e667d4",
+        "title": "Brain-Computer  Interfaces",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "f3a7e091-1f66-5403-b47e-04dcb5e47370",
+        "title": "Brane Worlds",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "626eb67e-d3fa-5021-88f2-dc3c174c2137",
+        "title": "Canonical Quantization",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "29abc665-d2b8-5eff-8693-dabb751095b5",
+        "title": "Category Theory",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "32c73f89-4f4e-5501-9362-3f1e0976f62d",
+        "title": "Category Theory Completion",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": [
+          "Layers as categories ✓",
+          "Transformations as functors ✓",
+          "Adjunctions ( 𝒰  ⊣  𝒟 ) ✓",
+          "Naturality conditions ✓"
+        ],
+        "whats_missing": [
+          "Complete universal properties",
+          "Yoneda lemma applications",
+          "Kan extensions",
+          "Monoidal structure",
+          "Enriched categories",
+          "Higher categories (2-categories, ∞-categories)",
+          "Coherence theorems",
+          "Proof that R-field is initial object"
+        ],
+        "aliases": []
+      },
+      {
+        "id": "33ee956e-724b-5747-956f-8c1ea5f2fe64",
+        "title": "Cell Biology",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "f25f9cf6-e50e-5924-a601-9b797cf541dc",
+        "title": "Challenges",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "280076f0-b60b-5844-9b18-eac6b3c4ed78",
+        "title": "Characteristic Classes",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "363e2b6d-538f-5cca-a55d-99231be832e4",
+        "title": "Cir cadian Rhythms",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "ce6a155a-24f3-5743-86a0-1866cd61ebfb",
+        "title": "Classical to Quantum Transition",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "be513e4b-12d9-5137-a092-b21cb73cb908",
+        "title": "CMB Analysis",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "bf3f885e-a9f1-5f35-8b57-28682ec8e96e",
+        "title": "Communication",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "01bf509b-961d-5508-b5bc-0d505ca8f16b",
+        "title": "Comparison to Other  ToEs",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "f1d531bb-4d51-5506-a5aa-e49d24d76c1d",
+        "title": "Components",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "e4154c24-c748-598b-a58e-2a92c9eba6c3",
+        "title": "Condensed Matter",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "6520a354-a423-59e2-807f-eff648b0ce28",
+        "title": "Conformal Invariance",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "3fb0cbcd-dcbd-5b38-9114-726d3434bd0f",
+        "title": "Consciousness Experiments",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": [
+          "General outline ✓",
+          "Predictions stated ✓"
+        ],
+        "whats_missing": [
+          "Detailed IRB protocols",
+          "Subject recruitment strategy",
+          "Exact fMRI sequences",
+          "EEG electrode placement",
+          "Anesthesia dosing protocols",
+          "Meditation protocols",
+          "Data analysis pipelines",
+          "Statistical power calculations",
+          "Control group designs",
+          "Blinding procedures",
+          "Expected ef fect sizes",
+          "Budget breakdown",
+          "Equipment specifications",
+          "Timeline with milestones"
+        ],
+        "aliases": []
+      },
+      {
+        "id": "54e27a1e-54b6-57f0-bca9-8878690409a2",
+        "title": "Consciousness in AI",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "6fdb27c3-74fc-5be0-a7a1-e8a4de4b4c08",
+        "title": "Conservation",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "8f150cf3-a233-5e72-8881-21cae88c1cbb",
+        "title": "Consistency",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "777fe370-5491-59be-b2ac-54a4c6aec790",
+        "title": "Consumer  Products",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "a24344d6-74d2-5418-9f29-33472c29c096",
+        "title": "Cor e Library",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "9e6dfe8e-f621-570a-910e-fcae48579df1",
+        "title": "Coverage Goals",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "4143fb8a-b4f6-5b9b-a98f-70269e5dd52d",
+        "title": "Cr oss Sections",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "b3d44c4b-3e45-5ff9-a704-c05b2ee6b8b2",
+        "title": "Cryptocurr encies",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "90602621-b4d0-59fe-90ea-a344b62d0e62",
+        "title": "Curr ent AI (LLMs)",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "97fa036f-d62e-52b8-9171-938d056d5886",
+        "title": "Curr ent Status",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "2826bccb-ff0f-5860-bf89-82f833783cc1",
+        "title": "Dark Energy",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "468a893d-36dd-580d-ab7f-141639f19247",
+        "title": "Dark Matter",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "19b98d56-cc4c-5639-b82c-8f169b6141c5",
+        "title": "Dependencies",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "354fb9ce-f7fc-5fb1-9bba-3464be480ae3",
+        "title": "Development",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "52bb5b7e-ab0b-5f85-95eb-e7279d06ebfe",
+        "title": "Disorders",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "56692f1d-f02d-51bb-a29f-42c4dafc6d61",
+        "title": "Divergences",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "12fbe84f-e7d6-5a0a-a870-67eba7c18483",
+        "title": "Documentation",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "25832316-6300-5b92-a5e4-472c7e71bb2e",
+        "title": "Duality",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "db4a7c4c-050a-5234-bfe0-8935d6cedc45",
+        "title": "Echo Chambers",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "5182c497-e327-58c9-90dd-0e3ea77c21b8",
+        "title": "Ecology",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "ecf3e5a2-5564-5cc4-8c99-04d91b59fb8b",
+        "title": "Economics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": [
+          "Complete market dynamics model",
+          "Price discovery mechanisms",
+          "Asset bubbles formal theory",
+          "Herding behavior",
+          "Information cascades",
+          "Behavioral economics integration",
+          "Game theory connections",
+          "Auction theory",
+          "Contract theory",
+          "Mechanism design",
+          "Monetary policy implications",
+          "Cryptocurrency dynamics",
+          "Financial crisis prediction",
+          "Wealth distribution"
+        ],
+        "aliases": []
+      },
+      {
+        "id": "f7322aa1-694f-5780-8d86-463114103fd1",
+        "title": "Ecosystem Dynamics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "0fcff617-9baf-5d63-943f-f107a68d520c",
+        "title": "Education",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "7222cff3-7527-5bdf-9607-396e488fab5b",
+        "title": "EEG Study",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "b7d86ed4-ce7d-5f65-9450-17203bcdaee0",
+        "title": "Einstein's Equations",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "6a238808-e2a8-54d9-89a8-83ec84f2b7fc",
+        "title": "Elementary Particles",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "0ec938bd-2230-540a-a7ff-2e9ae4227912",
+        "title": "Emergent Spacetime",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "1988b1ab-d342-562d-95f5-7ea007088e91",
+        "title": "Energy",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "3373edef-daba-5d64-afd1-b94129b26f0c",
+        "title": "Energy-Momentum Tensor",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "6bf7c1d0-8d98-5c08-aadb-8b21b385b5a4",
+        "title": "Enriched Categories",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "4e08d2cd-367c-5874-b343-92f02562fa50",
+        "title": "Entr opy",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "2a9f0da6-664b-565b-873a-bafc710f3aa2",
+        "title": "Epistemology",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "2f3f86b2-7551-5e3b-8ae1-27685aa7f8cc",
+        "title": "Equation of State",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "0e09d4dc-158d-540e-8711-27a8c5e23a64",
+        "title": "Ethics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "8f9b3379-81ed-5d1f-a3be-2fce3d3b50c4",
+        "title": "Evolution",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "be144017-cf0b-5966-9d45-e08cd53a0d60",
+        "title": "Fermion Generations",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "5c26aa29-7d4f-5e6e-bf38-74e5f9752b7b",
+        "title": "Feynman Rules",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "2462ed47-029c-5516-b487-948eefea902a",
+        "title": "Field Expansion",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "b43bfeb0-3a75-52df-981e-838a9569e6f3",
+        "title": "Financial Markets",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "835ea70a-3748-5acd-b98d-974e52c73238",
+        "title": "Fisher  Metric",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "1ed201cd-557a-5a34-9890-3b59ff7a893c",
+        "title": "Fluid Dynamics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "0d7445bd-0f4d-5961-ad3d-eec14bbdd1bf",
+        "title": "fMRI Study",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "f042b884-5007-5f16-8b51-fcda34cac173",
+        "title": "Fock Space Construction",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "0b30087e-07e0-524b-9289-3327f3c0419e",
+        "title": "For ce Unification Scale",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "8107ff3b-c4eb-561a-a6ae-83d8c18615bb",
+        "title": "Formal Pr oof System",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": [
+          "Core theorems stated ✓",
+          "Informal proofs given ✓",
+          "Test validation ✓"
+        ],
+        "whats_missing": [
+          "Lean 4 formalization (60% complete)",
+          "Coq formalization (40% complete)",
+          "Machine-verified proofs",
+          "Automated theorem proving",
+          "Proof complexity analysis",
+          "Constructive proofs",
+          "Interactive proof exploration"
+        ],
+        "aliases": []
+      },
+      {
+        "id": "07b8e5fe-6993-5987-8c68-5076d3e02283",
+        "title": "Formalization",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "f4128b21-c443-5edf-b033-6cda064b20b7",
+        "title": "Fr ee Will",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "816ba21b-551c-59be-a007-1be9f632a99c",
+        "title": "FR W Metric",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "fa98430c-eb2d-5576-ae72-7cae6d23bfc2",
+        "title": "Fractal & Multifractal Analysis",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": [
+          "φ-scaling observed ✓",
+          "Golden fractal dimension D = 1/ln(φ) ≈ 2.078 ✓"
+        ],
+        "whats_missing": [
+          "Complete multifractal spectrum",
+          "Generalized dimensions D_q",
+          "Singularity spectrum f(α)",
+          "Legendre transform structure",
+          "Renormalization group flow",
+          "Fractal measure theory",
+          "Cantor set structure",
+          "Self-similar solutions",
+          "Hausdorf f dimension proofs"
+        ],
+        "aliases": []
+      },
+      {
+        "id": "f03f3dde-351c-5933-82f9-7d6eeee637ed",
+        "title": "Fractal Dimension",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "0d0736d5-fbba-5d18-94d6-e449a946cd0a",
+        "title": "Game Theory",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "fae8f9f3-48f5-5868-bfca-8362dc56dfeb",
+        "title": "Geometry",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "ac77f20f-b301-56f1-aeac-a03549238fe3",
+        "title": "Global Symmetries",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "a46d9084-3730-57d9-87e9-7acd08e7c4ba",
+        "title": "Global Workspace Theory",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "aa3673de-baf4-5839-a94a-71d40fb14d31",
+        "title": "Gr oup Coordination",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "ffbe29db-df89-5b67-9b6b-4e724b881374",
+        "title": "Grand Unification",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "89f9a92d-36d5-5112-8f4b-e56f5796b2a6",
+        "title": "Hallucination Detection",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "f3197442-088b-5185-9f86-d61f4a5e7d51",
+        "title": "Hardwar e",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": [
+          "Conceptual designs only ✓"
+        ],
+        "whats_missing": [
+          "Circuit schematics",
+          "PCB layouts",
+          "Component specifications",
+          "Power requirements",
+          "Thermal management",
+          "Electromagnetic shielding",
+          "Calibration hardware",
+          "Testing equipment",
+          "Manufacturing tolerances",
+          "Quality control procedures",
+          "Prototype fabrication",
+          "Field testing",
+          "Ruggedization",
+          "Miniaturization",
+          "Cost reduction strategies"
+        ],
+        "aliases": []
+      },
+      {
+        "id": "f3226e84-544c-596b-8b60-74e3530e79ae",
+        "title": "Hawking Radiation",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "73a6edca-a0c7-58ff-943d-37a453000eae",
+        "title": "Higher  Categories",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "b176c06d-79e8-5e67-8a25-ba0fa21afab4",
+        "title": "Higher  Inductive Types",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "e819ce98-4391-5277-bc42-0197359b6f29",
+        "title": "Holography",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "17a3b516-b2a8-50f7-b18a-a2b5029d925a",
+        "title": "Holomorphic μ-Field",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "b3109386-f92b-5171-94a9-1ae0c32019fb",
+        "title": "Homology",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "90d5be34-4f7f-5e7d-97fd-1a4296d045cb",
+        "title": "Homotopy",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "f04059cc-b94c-5dc3-89c0-01a2183af41b",
+        "title": "HoTT  Basics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "0f7bd950-b1c2-53ae-bc91-1e6518f32141",
+        "title": "Industrial",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "0e1ffc4c-3988-5936-827b-36276417ec27",
+        "title": "Inflation",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "b75ecd7e-24cf-5542-abb2-a71f191cc9c0",
+        "title": "Information Geometry",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": [
+          "Basic metrics defined ✓",
+          "Entropy relationships ✓"
+        ],
+        "whats_missing": [
+          "Complete Riemannian structure",
+          "Fisher information metric",
+          "Natural gradient",
+          "Dual coordinates",
+          "α-connections",
+          "Diver gence measures",
+          "Geodesics in μ-space",
+          "Curvature tensor",
+          "Parallel transport",
+          "Holonomy"
+        ],
+        "aliases": []
+      },
+      {
+        "id": "90eac914-a92d-5238-9436-68c7ca8ad073",
+        "title": "Information Paradox",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "c67e050c-8b46-5603-916d-0d083c2aefea",
+        "title": "Initial Conditions",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "89c8d219-a346-5534-acd9-df18a5d8dfe9",
+        "title": "Integrated Information Theory",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "fcefd9d7-8626-5fa2-a172-c1a6d4bdf0a3",
+        "title": "Interaction Lagrangian",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "59c6400a-9742-577d-8a12-79bc1d83428d",
+        "title": "Interactions",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "2e0e5a4d-c066-520d-ba92-9e5c4e5a7d25",
+        "title": "Language Acquisition",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "8cc6c7e9-86f0-5d4d-b8f2-d8915e038b98",
+        "title": "Language Evolution",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "52666309-9da0-5bce-8a21-588db199493b",
+        "title": "Local Symmetries (Gauge)",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "c24ca4b7-4e1a-50bd-a3bf-d2c5e219ae25",
+        "title": "Logic",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "d3836597-b092-598f-bab8-169ab76d2af4",
+        "title": "LQG Basics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "e41d8c2b-ff71-549f-9182-8a06ca719674",
+        "title": "Macr oeconomics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "b31dacc0-ff1d-5da5-8343-060c64241d41",
+        "title": "Market Experiment",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "044aaf0c-ba37-5cb0-951a-d92b0e1af450",
+        "title": "Mass Generation",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "74887c63-bfcd-5717-9f0f-8d59d822603d",
+        "title": "Materials",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "2285b45a-59e3-5278-a58e-03a2785c697a",
+        "title": "Medical Device",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "252c0ae4-5b5b-5ee4-b214-0fb7ee9bc270",
+        "title": "Medical Devices",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "618e203d-5793-5e7d-9f84-0577fc3370a1",
+        "title": "Medicine",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "88378b5f-bf26-51a7-b6a3-bf31df2e8ab1",
+        "title": "Meditation Study",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "d897a405-c894-5346-9d57-dafb2791e7c3",
+        "title": "Metaphysics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "ab8cd23b-9674-5fa4-8464-ffea2b1d6954",
+        "title": "Micr oeconomics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "1c74fb81-0a94-5ac0-beec-226f1bcfd7b2",
+        "title": "Mind-Body Pr oblem",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "27077f54-9b29-5705-b824-7b970043e6ea",
+        "title": "Misinformation",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "8a3c07a0-5904-5879-be91-1eed8c1e84cd",
+        "title": "Missing Tests",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "1f434730-25aa-56ad-a371-6ac1a23b1fb8",
+        "title": "Missing Universal Pr operties",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "9392081b-ca8c-540f-a6b2-b593e6dcd1bf",
+        "title": "Modular  Forms",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "7dbe1f39-35e2-5104-9d45-8a75dc7991ba",
+        "title": "Molecular  Biology",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "662cdde1-9f4a-507d-871c-4abef06dbe31",
+        "title": "Monoidal Structur e",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "7a38c3f9-3685-53a1-ad99-372f1e2047c4",
+        "title": "Multi-Agent Systems",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "4d2d70b9-e49b-57ca-b68e-f27cac5d5c5f",
+        "title": "Multifractal Spectrum",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "0fc29c44-e888-5808-836e-f99608713f1a",
+        "title": "Neur oscience (Extended)",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "2b2d5efa-f270-5856-a3f5-6b36fb96dff0",
+        "title": "Neural Corr elates",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "fb9a9b05-4f72-5105-8925-73e7a4fb30f2",
+        "title": "Neural Oscillations",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "aa8c88df-65c1-5d17-83df-b027f8ca8282",
+        "title": "Noether's Theor em",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "bdb4334f-ccae-5d19-b75d-94361e510bd1",
+        "title": "Non-Abelian Extensions",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "6f32aa09-6e46-5652-843e-d9b6a6c96c15",
+        "title": "Nuclear  Physics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "e4441940-3be6-58c5-a134-e9d2582cf1f6",
+        "title": "Number  Theory",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "b2fe98bb-7e4e-5b75-a1cf-009ff9f877a6",
+        "title": "Ontology",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "bbe56a36-4174-5316-9d49-2bfa26fffa19",
+        "title": "Opinion Dynamics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": [
+          "beea310f-de40-56c6-9f10-b777a98e9082"
+        ]
+      },
+      {
+        "id": "fe3bd760-00a0-5ea1-8eb3-abe9d29d33c3",
+        "title": "Optical Cavity",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "9d04dc29-e2f7-5b3b-a20e-18de41e2ee66",
+        "title": "Optics & Photonics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "592080e7-71d7-5f8d-8bfc-77d52e56ca1b",
+        "title": "p-Adic Numbers",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "ad383b20-2808-5f4f-8cc7-6174f57483aa",
+        "title": "p-Adic μ-Field",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "46c63078-31b2-5f63-b4e3-4907f229bc0c",
+        "title": "Particle Physics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "e60b9e94-0466-5330-b5ae-085bcc81cf42",
+        "title": "Performance",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "b4e2acf0-eab2-5577-9b49-af00fdf643a0",
+        "title": "Perturbations",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "9c367092-a146-574a-b9ee-57fd7d5ca855",
+        "title": "Philosophy of Science",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "84ab5f6b-ac06-574f-934f-ebaddbe31f16",
+        "title": "Physics Experiments",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": [
+          "CMB anomaly predictions ✓",
+          "Quantum measurement hypotheses ✓"
+        ],
+        "whats_missing": [
+          "Exact data analysis algorithms",
+          "Statistical significance thresholds",
+          "Control for systematics",
+          "Calibration procedures",
+          "Background subtraction",
+          "Signal extraction",
+          "Bayesian vs frequentist analysis",
+          "Laboratory equipment specifications",
+          "Optical cavity designs",
+          "Superconducting circuit layouts",
+          "Josephson junction parameters",
+          "Measurement uncertainty analysis"
+        ],
+        "aliases": []
+      },
+      {
+        "id": "7a15871d-2d06-5227-980f-6d78f2329307",
+        "title": "Planck Scale Structur e",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "f8c2c859-3f93-503d-9e76-7ba4fd9644d4",
+        "title": "Plasma Physics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "b1106761-2f7d-54d9-bff3-0a19feaf9eb6",
+        "title": "Political Science",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "41261170-be47-5e5d-9bcf-4614a6cb1343",
+        "title": "Portable Unit",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "96a40ea5-733d-5541-8a69-e475637ac70c",
+        "title": "Pr edictions",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "f24e5f41-4d1d-5ee9-a9fc-4117316ad6de",
+        "title": "Pr otein Folding",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "de6e5049-a587-54c1-bfaf-9890c5098244",
+        "title": "Pr oton Decay",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "94175b3c-5ae4-56f4-b2ad-abc2fd725e6d",
+        "title": "Pragmatics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "fccddc6a-6fc4-5369-bb8c-b1714da51fdf",
+        "title": "Psychedelic Study",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "17ee0689-5b37-5d2c-9f11-d06b54ab2087",
+        "title": "Psychedelics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "a0e29e1a-6e84-5d54-b2ef-07b5fd39072f",
+        "title": "Psychology",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "6da0cf49-069e-5ca9-ab06-5d567bc7559f",
+        "title": "Quantum Computing",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "6a309e9a-3033-5462-818f-0c590aa4996a",
+        "title": "Quantum Measur ement",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "21ce6f41-167d-5e84-bc0f-92006dc1df9c",
+        "title": "Quintessence",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "ea3fa97b-9ec2-5b94-8988-1817b5c65d43",
+        "title": "R-Field as Type",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "96cf1eac-dd72-5dbf-9e79-8a463ba78732",
+        "title": "Real-T ime Monitor",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "b1424dde-3207-536c-888b-1f5e36ed25c1",
+        "title": "Reheating",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "e888faad-ec40-5b92-b9e1-1dc5756f82c2",
+        "title": "Renormalizability",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "8e28753f-9f1b-5323-802c-8b19c26d6fa9",
+        "title": "Renormalization",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "7a3ac946-d194-5f36-94ed-47809dec4597",
+        "title": "Renormalization Gr oup",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "2da99752-e23f-5b66-a84b-5ee8ae627b76",
+        "title": "Riemann Surface",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "06608493-2c76-5b2f-be0a-67a3fca176e3",
+        "title": "Robotics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "e85d4a01-bad2-595b-a9d6-ef4f266402d8",
+        "title": "Scale Dependence",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "0f6efe03-6dd9-5a6a-a4d5-bf10a6e24fa6",
+        "title": "Scaling Exponents",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "c7acc229-5008-516e-8f65-4634e10bb0be",
+        "title": "Scattering Amplitudes",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "d0b32fc8-ac57-54a7-bf95-ebb172a8e4df",
+        "title": "Schwarzschild + μ-Field",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "94017f78-3ddb-5388-9817-77c1c3bf1cf1",
+        "title": "Self-A wareness Module",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "a2f503e4-cfb9-51e3-8696-bf3092a998d9",
+        "title": "Self-Monitoring Threshold",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "9e9dec74-29ad-5853-a297-1391b50b7dd0",
+        "title": "Semantics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "8cf0162c-e8bb-51cd-97dd-6342dfe5d535",
+        "title": "Set Theory",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "118910fd-67a2-5b89-b3fd-fd4e025c9cb9",
+        "title": "Sleep & Dr eams",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "315770ff-d848-5890-8ffb-c7274a55c754",
+        "title": "Slow Roll",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "bcec84f0-901b-578f-95dd-ceb31140600c",
+        "title": "Social Sciences",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": [
+          "Social consensus formation",
+          "Opinion dynamics",
+          "Voting theory",
+          "Coalition formation",
+          "Network ef fects",
+          "Misinformation spread",
+          "Echo chambers as high-μ traps",
+          "Social movements",
+          "Cultural evolution",
+          "Language dynamics",
+          "Anthropology connections",
+          "Sociology foundations",
+          "Political science applications",
+          "International relations"
+        ],
+        "aliases": []
+      },
+      {
+        "id": "ab47cb17-2761-5996-88f6-79375d363949",
+        "title": "Sociology",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "0cc09ed2-8d4d-582f-8334-1257ae114933",
+        "title": "Softwar e",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": [
+          "Python implementations ✓",
+          "Basic test suites ✓"
+        ],
+        "whats_missing": [
+          "Production-grade code (currently research quality)",
+          "Full test coverage (need 1000+ tests)",
+          "Documentation (need API docs, tutorials)",
+          "Error handling & edge cases",
+          "Performance optimization",
+          "Memory ef ficiency",
+          "Parallelization",
+          "GPU acceleration",
+          "Distributed computing",
+          "Real-time processing",
+          "Streaming data handling",
+          "Database integration",
+          "Web interfaces",
+          "Mobile apps",
+          "Cloud deployment",
+          "CI/CD pipelines"
+        ],
+        "aliases": []
+      },
+      {
+        "id": "3793923a-a252-5d93-8aae-96681895a2d8",
+        "title": "Solitonic Solutions",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "8abe66eb-793a-5ae8-bb32-2c99b50f3add",
+        "title": "Space Exploration",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "ae0158cb-a27b-5323-8173-b2ff71c3c7e5",
+        "title": "Standard Model",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "abc06bf8-2e04-57bb-a897-caec4b2a1964",
+        "title": "Statistical Manifold",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "dae60def-4082-5da8-a78a-cd72cd953a7f",
+        "title": "Statistical Mechanics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "7c8a1158-9702-5376-90f4-77fafcf5b154",
+        "title": "String Theory Basics",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "9972f876-6a3b-5c6e-ad3c-e91d207f6a99",
+        "title": "Super conducting Cir cuits",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "8c681a32-e910-5053-a256-e9d9b4a91303",
+        "title": "Supersymmetry (SUSY)",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "6c62f912-add3-555a-ba1d-45b85d9dc44e",
+        "title": "Syntax",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "7517e985-053d-55d6-90ef-91b56eb60d76",
+        "title": "Technology",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": [
+          "Sensor design specifications",
+          "Manufacturing processes",
+          "Materials science",
+          "Signal processing algorithms",
+          "Calibration procedures",
+          "Field deployment",
+          "Consumer applications",
+          "Medical devices",
+          "Brain-computer interfaces",
+          "Neural prosthetics",
+          "Quantum computing architectures",
+          "Communication protocols",
+          "Encryption using μ-field",
+          "Energy harvesting"
+        ],
+        "aliases": []
+      },
+      {
+        "id": "0f4c6a34-e79a-564d-88e6-c08b00d3c6df",
+        "title": "Test Categories",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "b0e814c0-649d-579f-a447-e2d6b5ccabc0",
+        "title": "Testing Framework",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "1789a91b-c2a1-539b-8a32-51fe1e022871",
+        "title": "The Pr oblem",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "9a8c31ba-a058-5e42-812a-1185d8c5eb25",
+        "title": "Topology",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "02928575-ece6-5c17-8744-f1d5969f75da",
+        "title": "Trace",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "7726d2d5-037b-59b9-bd28-a5780678f31b",
+        "title": "U(1) Gauge Theory",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "9c2728d3-c036-56e6-8622-a651d644596a",
+        "title": "Unified Framework",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "47f1406b-f876-593f-9db7-209802fb34cf",
+        "title": "UV  Divergences",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "9895c5a3-ee1e-5737-9471-7e997a2a359d",
+        "title": "What Parts 1-4 Cover",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "589d4374-33c8-5d2e-9ced-3ccf66281772",
+        "title": "What Would It Explain?",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "236e506e-6ee2-5f3c-a7dc-f0295beb613d",
+        "title": "What's MISSING (Goes in Part 5+)",
+        "progress": 0,
+        "bullets": [
+          "❌ Complete quantum field theory (only preview)",
+          "❌ General relativity coupling (only mentioned)",
+          "❌ Grand unification (only outlined)",
+          "❌ Gauge theory extensions (only hinted)",
+          "❌ Supersymmetry (only mentioned)",
+          "❌ String theory connection (not covered)",
+          "❌ Loop quantum gravity connection (not covered)",
+          "❌ Higher -dimensional μ-fields (only mentioned)",
+          "❌ Non-Abelian extensions (only mentioned)",
+          "❌ Complete category theory (partially done)",
+          "❌ Homotopy type theory (not covered)",
+          "❌ p-adic extensions (mentioned, not developed)",
+          "❌ Information geometry (mentioned, not developed)",
+          "❌ Fractal structure (mentioned, not developed)",
+          "❌ Lean/Coq proofs (40-60% complete)",
+          "❌ Complete uniqueness proofs",
+          "❌ Derivation of all constants from first principles",
+          "❌ Rigorous renormalization proofs",
+          "❌ Complete conver gence theorems",
+          "❌ Topological invariants",
+          "❌ Algebraic structure completeness",
+          "❌ Detailed experimental protocols",
+          "❌ Complete measurement techniques",
+          "❌ Budget/resource allocation",
+          "❌ Timeline with milestones",
+          "❌ Expected results quantified",
+          "❌ Falsification criteria specified",
+          "❌ Statistical power analysis",
+          "❌ Complete neuroscience applications",
+          "❌ Detailed AI architectures",
+          "❌ Biology beyond consciousness",
+          "❌ Economics models",
+          "❌ Social science applications",
+          "❌ Technology roadmap",
+          "❌ Engineering principles",
+          "❌ Production-ready code",
+          "❌ GPU implementations",
+          "❌ Distributed systems",
+          "❌ Real-time monitoring",
+          "❌ Hardware specifications",
+          "❌ Sensor designs"
+        ],
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "59ead52d-d255-567a-a9e2-f242b90d67f6",
+        "title": "Winding Number",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "250178b4-c53d-58b3-b7fe-9046e1e77203",
+        "title": "Zeta Functions",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "623a2920-fa3e-5e4a-8060-9743ecf11d4f",
+        "title": "α-Connections",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "d966ffdb-aa88-50b7-a936-eb2adc599322",
+        "title": "μ-Field as Quantum Gravity",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "2b2e98ca-590a-5de2-bfd9-f354a6419d75",
+        "title": "μ-Field as String Mode",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "f56ca048-6830-5b14-8063-0349df6af72a",
+        "title": "μ-Field Evolution",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "cabbea66-15b6-5ed7-88b6-24e0f1a7ae38",
+        "title": "μ-Field on Spin Network",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "be5ebd65-6c81-58f1-9de7-5b9c3f2767e9",
+        "title": "μ-Field Sensor  Prototype",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "5f78a317-650c-5502-891e-e5e478268e11",
+        "title": "μ-Field Sensors",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "b50ba3b8-b806-527e-80bb-a2a596508dff",
+        "title": "μ-Field Unification",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "a982e075-b581-51bc-bd7a-c0a70cc976a3",
+        "title": "φ-T uned Architectur e",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      },
+      {
+        "id": "09f7afce-e462-5fdc-b2f9-cca29e443c15",
+        "title": "φ-T uned Architectur es",
+        "progress": 0,
+        "bullets": null,
+        "whats_done": null,
+        "whats_missing": null,
+        "aliases": []
+      }
+    ]
+  }
+}
